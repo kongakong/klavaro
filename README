@@ -1,0 +1,92 @@
+Well, in a few words, I can say: launch the program and learn by
+using it. It is very simple and full of tips. Most of the buttons
+have some tip showing what they will do.
+
+If you have to compile, please read the INSTALL file.
+And also, specific libs you have to install (on Debian): 
+- libgtk-3-dev
+- libcurl4-dev
+- intltool
+- libtool
+
+See also the web site:
+http://klavaro.sourceforge.net
+
+
+- COLORS
+
+Some colors may be configured through the file preferences.ini 
+There you should create a session named [colors] and set some colors
+with the internet/html syntax (#RRGGBB). Example:
+
+[colors]
+key_fg=#332200
+key_1=#112233
+key_9=#213243
+text_intro_fg=#222222
+char_untouched_bg=#fffaf8
+char_wrong_fg=#880000
+char_correct_fg=#009900
+char_retouched_fg=#bbbbaa
+cursor_blink_bg=#ff88ff
+
+The preferences.ini file holds all the default key/value pairs, since the first time when
+ the application is run. But they are never overwritten after that, so direct edition should
+ be done by the user to change the colors.
+
+Here is the complete list of keywords to set colors:
+
+Background and foreground for the tutor introductory texts:
+text_intro_bg
+text_intro_fg
+
+Background and foreground for the tutor texts before they be typed out:
+char_untouched_bg
+char_untouched_fg 
+
+The same for the tutor texts after they be correcty typed out:
+char_correct_bg 
+char_correct_fg 
+
+Same for tutor texts after they be wrongly typed:
+char_wrong_bg
+char_wrong_fg
+
+Same for tutor texts after they be correcty retyped, correcting errors (only in fluidity module):
+char_retouched_bg
+char_retouched_fg 
+
+Blinking color of the block cursor in the tutor tests:
+cursor_blink_bg
+cursor_blink_fg
+
+Foreground of keys in the virtual keyboard:
+key_fg
+
+Background of keys, according to the finger responsible for it, from left to right (key_5 is valid 
+ for both thumbs, it is the space key):
+key_1
+key_2
+key_3
+key_4
+key_5
+key_6
+key_7
+key_8
+key_9
+
+
+- GOALS
+
+And also, the goals for touch typing skill may be configured in preferences.ini file. They give the 
+ limits for each tutor module, so the user is told when he/she should go to the next level. They also
+ appear as horizontal lines in the progress charts.
+The default key/value pairs used in the application show up after the first time one runs and close 
+ it gracefully, take a look at your preferences.ini file.
+
+- LEVELS
+
+These are similar to the goals above, but they are used only to distinguish the comments done by the
+ tutor after each practicing session, along all the modules. With them, the program knows how the user
+ is doing with his training, and then suggests more directions to take. As with GOALS, see your
+ preferences.ini file, after launching and using the application for at least one time.

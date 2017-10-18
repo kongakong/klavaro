@@ -1,0 +1,1273 @@
+# Hungarian translation of klavaro
+# Copyright (C) 2006, 2009, 2011, 2012, 2014 Free Software Foundation, Inc.
+# This file is distributed under the same license as the klavaro package.
+#
+# Gergely Máté <_gerymate_@gmail.com>, 2006, 2008.
+# Gabor Kelemen <kelemeng@gnome.hu>, 2009, 2011, 2012, 2014.
+# Balázs Úr <urbalazs@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: klavaro 3.01-pre1\n"
+"Report-Msgid-Bugs-To: <translation-team-eo@lists.sourceforge.net>\n"
+"POT-Creation-Date: 2017-06-25 09:16-0300\n"
+"PO-Revision-Date: 2014-09-22 20:50+0200\n"
+"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: ../data/klavaro.glade.h:1
+msgid "Klavaro - Progress"
+msgstr "Klavaro - Fejlődés"
+
+#: ../data/klavaro.glade.h:2
+msgid "_Lesson:"
+msgstr "_Lecke:"
+
+#: ../data/klavaro.glade.h:3
+msgid "Value"
+msgstr "Érték"
+
+#: ../data/klavaro.glade.h:4
+msgid "Close this window, returning to the exercise."
+msgstr "Ablak bezárása, visszatérés a gyakorlathoz."
+
+#: ../data/klavaro.glade.h:5
+msgid "_Close"
+msgstr "_Bezárás"
+
+#: ../data/klavaro.glade.h:6
+msgid "Clear all the progress data, for every module."
+msgstr "Minden előrehaladási adat törlése az összes modulból."
+
+#: ../data/klavaro.glade.h:7
+msgid "_Reset"
+msgstr "_Visszaállítás"
+
+#: ../data/klavaro.glade.h:8
+msgid "Load other exercises/lessons"
+msgstr "Más gyakorlatok/leckék betöltése"
+
+#: ../data/klavaro.glade.h:9
+msgid "_Other texts"
+msgstr "Más s_zövegek"
+
+#: ../data/klavaro.glade.h:10
+msgid "Edit the character set to be used in this lesson."
+msgstr "A leckében használandó karakterkészlet szerkesztése."
+
+#: ../data/klavaro.glade.h:11
+msgid "This is a specific exercise, adjusted to your error profile."
+msgstr "Ez egy egyedi gyakorlat, a hibaprofilodhoz igazítva."
+
+#: ../data/klavaro.glade.h:12
+msgid ""
+"Edit the character set to be used in lessons after 43: they are customizable!"
+msgstr "A 43. utáni leckékben használandó karakterkészlet szerkesztése."
+
+#: ../data/klavaro.glade.h:13 ../src/tutor.c:376
+msgid "Drag and drop text here to practice with it."
+msgstr "Húzza ide a szöveget a gyakorlás megkezdéséhez vele."
+
+#: ../data/klavaro.glade.h:14
+msgid "Press here to restart the exercise. Hotkey: [Ctrl-R]"
+msgstr "Kattints ide a gyakorlat újrakezdéséhez. Gyorsbillentyű: [Ctrl-R]"
+
+#: ../data/klavaro.glade.h:15
+msgid "Show the virtual keyboard and the relation between fingers and keys."
+msgstr "A virtuális billentyűzet és a helyes ujjrend megjelenítése."
+
+#: ../data/klavaro.glade.h:16
+msgid "_Keyboard"
+msgstr "Bill_entyűzet"
+
+#: ../data/klavaro.glade.h:17
+msgid "Select the font to be used in the exercise window."
+msgstr "Válaszd ki a gyakorlatok során használt betűkészletet."
+
+#: ../data/klavaro.glade.h:18
+msgid "Font definition"
+msgstr "Betűkészlet"
+
+#: ../data/klavaro.glade.h:19
+msgid "Keep this checked if you want to get those nice beeps."
+msgstr "Ezt bejelölve a program hangjelzéseket ad."
+
+#: ../data/klavaro.glade.h:20
+msgid "_Beep"
+msgstr "_Hangjelzés"
+
+#: ../data/klavaro.glade.h:21
+msgid "Co_urse information"
+msgstr "_Tanfolyam-információk"
+
+#: ../data/klavaro.glade.h:22
+msgid "Charts showing the learning progress along the exercises."
+msgstr "A fejlődést mutató diagramok."
+
+#: ../data/klavaro.glade.h:23
+msgid "_Progress"
+msgstr "_Fejlődés"
+
+#: ../data/klavaro.glade.h:24
+msgid "Exit the application immediately."
+msgstr "Azonnali kilépés"
+
+#: ../data/klavaro.glade.h:25
+msgid "Return to the main menu."
+msgstr "Visszatérés a főmenübe."
+
+#: ../data/klavaro.glade.h:26
+msgid "B_ack to menu"
+msgstr "_Vissza a menübe"
+
+#: ../data/klavaro.glade.h:27
+msgid "Show local and external scores from other users."
+msgstr "Helyi és távoli felhasználók pontszámainak megjelenítése."
+
+#: ../data/klavaro.glade.h:28
+msgid "_Top 10"
+msgstr "_Top 10"
+
+#: ../data/klavaro.glade.h:29
+msgid "Change language"
+msgstr "Nyelv megváltoztatása"
+
+#: ../data/klavaro.glade.h:30
+msgid "Attention!"
+msgstr "Figyelem!"
+
+#: ../data/klavaro.glade.h:31
+msgid "Do you confirm?"
+msgstr "Folytatod?"
+
+#: ../data/klavaro.glade.h:32
+msgid "_No"
+msgstr "_Nem"
+
+#: ../data/klavaro.glade.h:33
+msgid "_Yes"
+msgstr "_Igen"
+
+#: ../data/klavaro.glade.h:34
+msgid "Klavaro - Select file"
+msgstr "Klavaro - válassz fájlt"
+
+#: ../data/klavaro.glade.h:35
+msgid "_Cancel"
+msgstr "Mé_gse"
+
+#: ../data/klavaro.glade.h:36
+msgid "_Open"
+msgstr "_Megnyitás"
+
+#: ../data/klavaro.glade.h:37
+msgid "Re_name:"
+msgstr "Át_nevezés:"
+
+#: ../data/klavaro.glade.h:38
+msgid "Rename the selected item."
+msgstr "A kiválasztott elem átnevezése."
+
+#: ../data/klavaro.glade.h:39
+msgid ""
+"Read a text file and add a copy of it here. The file must be encoded in "
+"UTF-8."
+msgstr ""
+"Szöveges fájl beolvasása és másolat készítése. A fájlnak UTF-8 kódolásúnak "
+"kell lennie."
+
+#: ../data/klavaro.glade.h:40
+msgid "_Open text file"
+msgstr "Szö_vegfájl megnyitása"
+
+#: ../data/klavaro.glade.h:41
+msgid "Paste text that was copied to the clipboard."
+msgstr "A vágólapra másolt szöveg beillesztése."
+
+#: ../data/klavaro.glade.h:42
+msgid "_Paste from clipboard"
+msgstr "Beillesztés _vágólapról"
+
+#: ../data/klavaro.glade.h:43
+msgid "Remove the selected item."
+msgstr "A kiválasztott elem eltávolítása."
+
+#: ../data/klavaro.glade.h:44
+msgid "_Remove copied file"
+msgstr "A _másolt fájl eltávolítása"
+
+#: ../data/klavaro.glade.h:45
+msgid "Apply the selected item to create an exercise."
+msgstr "A kiválasztott elemből gyakorlat készítése."
+
+#: ../data/klavaro.glade.h:46
+msgid "_Apply"
+msgstr "_Alkalmaz"
+
+#: ../data/klavaro.glade.h:47
+msgid "Close this window."
+msgstr "Ablak bezárása."
+
+#: ../data/klavaro.glade.h:48
+msgid "Country / Custom"
+msgstr "Ország/egyéni"
+
+#: ../data/klavaro.glade.h:49
+msgid "Variant"
+msgstr "Változat"
+
+#: ../data/klavaro.glade.h:50
+msgid "Remove the selected custom layout."
+msgstr "A kiválasztott egyedi elrendezés eltávolítása."
+
+#: ../data/klavaro.glade.h:51
+msgid "_Remove"
+msgstr "_Eltávolítás"
+
+#: ../data/klavaro.glade.h:52
+msgid ""
+"Toggles the shift effect on the keys. Alternates between the upper and lower "
+"characters of the keys."
+msgstr ""
+"A Shift mód átváltása. A billentyűzet alsó és felső karakterei között vált."
+
+#: ../data/klavaro.glade.h:53
+msgid "SPACE BAR"
+msgstr "SZÓKÖZ"
+
+#: ../data/klavaro.glade.h:54 ../src/keyboard.c:1633
+msgid "thumbs"
+msgstr "hüvelykujjak"
+
+#: ../data/klavaro.glade.h:55
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: ../data/klavaro.glade.h:56
+msgid "Caps"
+msgstr "Caps"
+
+#: ../data/klavaro.glade.h:57
+msgid "S_ave as:"
+msgstr "Mentés _másként:"
+
+#: ../data/klavaro.glade.h:58
+msgid "Show previous screen."
+msgstr "Előző képernyő megjelenítése"
+
+#: ../data/klavaro.glade.h:59
+msgid "_Previous step"
+msgstr "_Előző lépés"
+
+#: ../data/klavaro.glade.h:60
+msgid "Show next screen."
+msgstr "Következő képernyő megjelenítése"
+
+#: ../data/klavaro.glade.h:61
+msgid "_Next step"
+msgstr "_Következő lépés"
+
+#: ../data/klavaro.glade.h:62
+msgid "Return without any modification."
+msgstr "Visszalépés a változtatások elvetésével."
+
+#: ../data/klavaro.glade.h:63
+msgid "Save the current keyboard layout with the name specified above."
+msgstr "A jelenlegi billentyűzetkiosztás elmentése a fent megadott néven."
+
+#: ../data/klavaro.glade.h:64
+msgid "_Save and use"
+msgstr "Mentés és _használat"
+
+#: ../data/klavaro.glade.h:65
+msgid ""
+"If you like those beautiful hands, click here to close this window keeping "
+"them."
+msgstr ""
+"Ha szereted ezeket a gyönyörű kezeket, kattints ide az ablak bezárásához a "
+"kezek megtartásával."
+
+#: ../data/klavaro.glade.h:66
+msgid "_Keep hands"
+msgstr "Ke_zek megtartása"
+
+#: ../data/klavaro.glade.h:67
+msgid "Klavaro - Main menu"
+msgstr "Klavaro – Főmenü"
+
+#: ../data/klavaro.glade.h:68
+msgid "Don't be shy about learning the basics!"
+msgstr "Ne szégyelld megtanulni az alapokat!"
+
+#: ../data/klavaro.glade.h:69
+msgid "Learn how to type correctly"
+msgstr "Tanulj meg helyesen gépelni"
+
+#: ../data/klavaro.glade.h:70
+msgid "Initial training for your fingers."
+msgstr "Alapozó ujjgyakorlatok."
+
+#: ../data/klavaro.glade.h:71
+msgid "First steps with initial training"
+msgstr "Első, alapozó lépések"
+
+#: ../data/klavaro.glade.h:72
+msgid "Memorizing the keyboard practicing random keys exercises."
+msgstr ""
+"A billentyűk helyének memorizálása véletlenszerű karakterek leütésével."
+
+#: ../data/klavaro.glade.h:73
+msgid "Practice with random keys"
+msgstr "Gyakorlás véletlen billentyűkkel"
+
+#: ../data/klavaro.glade.h:74
+msgid "Accelerating the touches practicing random words exercises."
+msgstr "Az írási sebesség növelése véletlenszerű szavak gépelésével."
+
+#: ../data/klavaro.glade.h:75
+msgid "Practice with random words"
+msgstr "Gyakorlás véletlen szavakkal"
+
+#: ../data/klavaro.glade.h:76
+msgid "Becoming proficient practicing complete paragraphs exercises."
+msgstr "Haladó gyakorlatok teljes bekezdések gépelésével."
+
+#: ../data/klavaro.glade.h:77
+msgid "Practice with complete texts"
+msgstr "Gyakorlás teljes szövegekkel"
+
+#: ../data/klavaro.glade.h:78
+msgid "Speech"
+msgstr "Beszéd"
+
+#: ../data/klavaro.glade.h:79
+msgid "Your language here."
+msgstr "A nyelved."
+
+#: ../data/klavaro.glade.h:80
+msgid ""
+"Keyboard layout for modules 1 and 2. Also used informatively in the "
+"fluidness contest."
+msgstr ""
+"Billentyűzetkiosztás az 1. és 2. modulhoz. A folyamatossági versenyben a "
+"használata informatív."
+
+#: ../data/klavaro.glade.h:81
+msgid "_Keyboard:"
+msgstr "Bille_ntyűzet:"
+
+#: ../data/klavaro.glade.h:82
+msgid "Language for modules 3 and 4."
+msgstr "Nyelv a 3. és 4. modulhoz."
+
+#: ../data/klavaro.glade.h:83
+msgid "_Language:"
+msgstr "Nye_lv:"
+
+#: ../data/klavaro.glade.h:84
+msgid "Little tip about this program."
+msgstr "Rövid információk a programról."
+
+#: ../data/klavaro.glade.h:85
+msgid "_Help"
+msgstr "_Súgó"
+
+#: ../data/klavaro.glade.h:86
+msgid "General information about the program."
+msgstr "Általános információk a programról."
+
+#: ../data/klavaro.glade.h:87
+msgid "_About..."
+msgstr "_Névjegy…"
+
+#: ../data/klavaro.glade.h:88
+msgid "About 'Klavaro'"
+msgstr "A Klavaro névjegye"
+
+#: ../data/klavaro.glade.h:89 ../data/klavaro.desktop.in.h:1
+msgid "Yet another touch typing tutor"
+msgstr "Ingyenes és szabad gépírásoktató program"
+
+#: ../data/klavaro.glade.h:90
+msgid "Remember always: someone loves you!"
+msgstr "Mindig jusson eszedbe: valaki szeret téged!"
+
+#: ../data/klavaro.glade.h:91
+msgid "Help?"
+msgstr "Súgó"
+
+#: ../data/klavaro.glade.h:92
+msgid "This is a tip. Now you press this button to return to the main menu."
+msgstr ""
+"Ez egy buboréksúgó. Nyomd meg ezt a gombot a visszatéréshez a főmenübe."
+
+#: ../data/klavaro.glade.h:93
+msgid ""
+"The main menu of the application is very straightforward. Just select the "
+"type of exercise you wish to take. Do not worry about clicking any button on "
+"the screen. The buttons will never hurt you!"
+msgstr ""
+"Az alkalmazás főmenüje nagyon egyszerű. Csak válaszd ki, milyen fajta "
+"gyakorlatot csinálnál szívesen. Kattints bátran bármely gombra: nem fognak "
+"bántani."
+
+#: ../data/klavaro.glade.h:94
+msgid ""
+"Also the controls have tips which will appear if you hover over them with "
+"your mouse. These tips can come in very handy. To see how these tips work, "
+"position your mouse over the button below, and without clicking, wait for "
+"the tip to appear..."
+msgstr ""
+"Ne feledd a vezérlőelemek fölött megjelenő buboréksúgókat. Néha hasznosak "
+"tudnak lenni. Ennek bemutatásához vidd az egérmutatót a lenti gomb fölé, és "
+"a gomb megnyomása nélkül várj egy kicsit a súgó felbukkanására..."
+
+#: ../data/klavaro.glade.h:95
+msgid "Top 10"
+msgstr "Top 10"
+
+#: ../data/klavaro.glade.h:96
+msgid "Show extra information."
+msgstr "További információk megjelenítése."
+
+#: ../data/klavaro.glade.h:97
+msgid "Hide extra information."
+msgstr "További információk elrejtése."
+
+#: ../data/klavaro.glade.h:98
+msgid "Publish to the web your local scores."
+msgstr "A helyi eredmények közzététele a weben."
+
+#: ../data/klavaro.glade.h:99
+msgid "_Participate"
+msgstr "_Részvétel"
+
+#: ../data/klavaro.glade.h:100
+msgid "Download from the web the most up to date ranking."
+msgstr "A legfrissebb rangsorok letöltése a webről."
+
+#: ../data/klavaro.glade.h:101
+msgid "_Update"
+msgstr "_Frissítés"
+
+#: ../data/klavaro.desktop.in.h:2
+msgid "A very flexible and efficient touch typing tutor."
+msgstr "Nagyon rugalmas és hatékony gépírásoktató program"
+
+#. Translators: these are keywords related to the program. CAI above means Computer Aided Instruction. Feel free to add and/or change the keywords in your language.
+#: ../data/klavaro.desktop.in.h:4
+msgid "keyboard;typing;tutor;CAI"
+msgstr "billentyűzet;gépelés;oktató;gépírás;CAI"
+
+#: ../src/main.c:238
+msgid "(Custom)"
+msgstr "(Egyéni)"
+
+#: ../src/main.c:239
+msgid "(Edit custom)"
+msgstr "(Egyéni szerkesztése)"
+
+#: ../src/main.c:240
+msgid "(Default)"
+msgstr "(Alapértelmezett)"
+
+#: ../src/main.c:317
+#, c-format
+msgid "Dictation mode (depends on this speech synthesizer: %s)"
+msgid_plural "Dictation mode (depends on one of these speech synthesizers: %s)"
+msgstr[0] "Diktálás mód (ettől a beszédszintetizátortól függ: %s)"
+msgstr[1] "Diktálás mód (ezektől a beszédszintetizátoroktól függ: %s)"
+
+#: ../src/main.c:360 ../src/keyboard.c:1293
+msgid "Introduction"
+msgstr "Bevezetés"
+
+#: ../src/main.c:363 ../src/top10.c:109
+msgid "Basic course"
+msgstr "Kezdő tanfolyam"
+
+#: ../src/main.c:366 ../src/top10.c:112
+msgid "Adaptability"
+msgstr "Készségfejlesztés"
+
+#: ../src/main.c:369 ../src/callbacks.c:1243 ../src/top10.c:89
+#: ../src/top10.c:115
+msgid "Speed"
+msgstr "Sebesség"
+
+#: ../src/main.c:372 ../src/callbacks.c:1266 ../src/top10.c:91
+#: ../src/top10.c:118
+msgid "Fluidity"
+msgstr "Folytonosság"
+
+#: ../src/callbacks.c:414 ../src/tutor.c:515
+msgid "Keys:"
+msgstr "Billentyűk:"
+
+#: ../src/callbacks.c:791 ../src/callbacks.c:807
+msgid "Connecting..."
+msgstr "Kapcsolódás…"
+
+#: ../src/callbacks.c:1078
+msgid "Overwrite user layout"
+msgstr "Egyéni billentyűzetkiosztás felülírása"
+
+#: ../src/callbacks.c:1080
+msgid "This will OVERWRITE an existent keyboard layout."
+msgstr "Ez FELÜLÍR egy meglévő billentyűzetkiosztást."
+
+#: ../src/callbacks.c:1087
+msgid "Remove user layout"
+msgstr "Egyéni billentyűzetkiosztás eltávolítása"
+
+#: ../src/callbacks.c:1089
+msgid "This will REMOVE an existent keyboard layout."
+msgstr "Ez ELTÁVOLÍT egy meglévő billentyűzetkiosztást."
+
+#: ../src/callbacks.c:1096
+msgid "Reset progress data"
+msgstr "Előrehaladási adatok törlése"
+
+#: ../src/callbacks.c:1097
+msgid "This will DELETE all the progress data shown in the charts."
+msgstr "Ez a grafikonokon megjelenő összes előrehaladási adatot TÖRLI."
+
+#: ../src/callbacks.c:1240 ../src/top10.c:87
+msgid "Accuracy"
+msgstr "Pontosság"
+
+#: ../src/callbacks.c:1243 ../src/tutor.c:1298
+msgid "(WPM)"
+msgstr "(SZPP)"
+
+#: ../src/callbacks.c:1254
+msgid "Errors"
+msgstr "Hibák"
+
+#: ../src/callbacks.c:1257
+msgid "Touch times (s)"
+msgstr "Leütések ideje (s)"
+
+#: ../src/callbacks.c:1269 ../src/tutor.c:1325 ../src/top10.c:69
+msgid "Score"
+msgstr "Eredmény"
+
+#. Translators: your language code (first 2 letters of your po-file)
+#: ../src/translation.c:506 ../src/tutor.c:1735
+msgid "en"
+msgstr "hu"
+
+#: ../src/translation.c:593
+msgid ""
+"The basic course focuses on having you read the characters presented to you "
+"on screen and typing the corresponding keys. Remember to keep your hands "
+"correctly oriented on the home row of the keyboard at all times (see "
+"introduction on main menu)."
+msgstr ""
+"A kezdő tanfolyamban olvasd el az ebben az ablakban megjelenő betűket, és "
+"üsd le a megfelelő billentyűt. Tartsd az ujjaid mindig a billentyűzet "
+"alapsorán (lásd a bevezetőt a főmenüben)."
+
+#: ../src/translation.c:597
+msgid ""
+"The key set used in each series will be shown in the above message line. The "
+"[Space], [Shift] and [Enter] keys may not show up there but are used very "
+"often."
+msgstr ""
+"A gyakorlatokban szereplő billentyűk a fenti üzenetsorban lesznek "
+"felsorolva. A [Szóköz], a [Shift] és az [Enter] billentyűk nem jelennek meg, "
+"ám azokat is gyakran használjuk."
+
+#: ../src/translation.c:600
+msgid ""
+"The message line below follows and echoes your key presses. If required, it "
+"changes and displays instructions for actions required from you."
+msgstr ""
+"A lenti üzenetsor követi és kiírja, amit gépelsz. Szükség esetén "
+"megváltozik, és tájékoztat az aktuális tennivalókról."
+
+#: ../src/translation.c:604
+msgid ""
+"Here you may practice and improve your memorization of all keys. There will "
+"be sentences presented with nonsense words which mix some numbers and "
+"symbols."
+msgstr ""
+"Itt gyakorolhatsz és alaposabban megjegyezheted a billentyűk "
+"elhelyezkedését. Értelmetlen szavakból, számokból és jelekből álló "
+"sorozatokat kell majd gépelned."
+
+#: ../src/translation.c:607
+msgid ""
+"In order to keep the lesson contents language and keyboard independent, "
+"accented letter combinations will probably not appear. For real word "
+"sentences, please use the fourth option of the main menu (about fluidness)."
+msgstr ""
+"A lecketartalom nyelvének és a billentyűzet függetlenségének megtartásához "
+"az ékezetes betűkombinációk valószínűleg nem jelennek meg. Igazi mondatok "
+"gyakorlásához válaszd a negyedik lehetőséget a főmenüben (a "
+"folyamatosságról)."
+
+#: ../src/translation.c:611
+msgid ""
+"After each exercise there will be a brief statistics panel reviewing your "
+"performance along with some relevant comments."
+msgstr ""
+"Minden gyakorlat végén láthatsz egy rövid statisztikát a teljesítményedről, "
+"néhány vonatkozó megjegyzéssel kiegészítve."
+
+#: ../src/translation.c:615
+msgid ""
+"This exercise is very similar to the second one, for adaptability. The "
+"difference is that here you'll type real words."
+msgstr ""
+"Ez a gyakorlat nagyon hasonlít a második, készségfejlesztő gyakorlathoz. A "
+"különbség, hogy itt értelmes szavakat fogsz gépelni."
+
+#: ../src/translation.c:618
+msgid ""
+"The default language is the actual one of the interface. But you may select "
+"any other texts with words you would like to use. Press the 'Other' option "
+"above and add files containing those texts."
+msgstr ""
+"Az alapértelmezett nyelv a program felületén használt nyelv. Ugyanakkor "
+"választhatsz más, gépelendő szavakat tartalmazó szövegeket is. Nyomd meg az "
+"„Egyéb” gombot, és válaszd ki a szövegeket tartalmazó fájlokat."
+
+#: ../src/translation.c:622
+msgid ""
+"With this exercise the focus is on speed. So, you are supposed to type "
+"really fast and I will only flatter you when you deserve it!"
+msgstr ""
+"Ebben a leckében a gyorsaságra koncentrálunk. Tehát igazán gyorsan kell "
+"gépelned, ha ki akarod érdemelni a dicséretet."
+
+#: ../src/translation.c:626
+msgid ""
+"We will now use complete sentences and paragraphs which make logical sense. "
+"This may distract you while you type if you try to understand what you are "
+"entering. The previous exercises were aimed at getting you to type without "
+"interpreting and analyzing the content."
+msgstr ""
+"Most teljes mondatok és bekezdések következnek, amelyeknek értelmük is van. "
+"Ez elvonhatja a figyelmed, ha megpróbálod megérteni, amit írsz. A korábbi "
+"gyakorlatok célja a tartalom értelmezése és elemzése nélküli gépelése volt."
+
+#: ../src/translation.c:630
+msgid ""
+"We do not mean to imply that the typists must behave like a robot, without "
+"understanding what they type. We do aim to develop the skill of typing, "
+"making it an automatic reflex akin to the acts of walking, talking, etc. "
+"After reaching this goal, the act of typing will become automatic and "
+"require little concentration. Then you will be able to pay attention to the "
+"real meaning of the text."
+msgstr ""
+"Nem arról van szó, hogy a gépíró robotként viselkedjen és ne értsen semmit "
+"abból, amit ír. A cél a gépírási készség fejlesztése addig, míg "
+"automatikussá és reflex-szerűvé válik, mint a járás vagy a beszéd. Ha ezt a "
+"célt elértük, a gépelés nem kerül majd különösebb erőfeszítésbe: ezután már "
+"a szöveg értelmére is lehet koncentrálni."
+
+#: ../src/translation.c:634
+msgid ""
+"These exercises are longer. Each exercise consists of three paragraphs and "
+"the emphasis is placed on correctness and rhythm, with a minimum speed "
+"requirement. Here you will be required to use the backspace key to correct "
+"any mistakes. In other words, only input without error will be accepted."
+msgstr ""
+"Ezek hosszabb gyakorlatok. Mindegyik három bekezdésből áll, és a pontosságon "
+"és a folyamatosságon van inkább a hangsúly, a gyorsaság csak kicsit fontos. "
+"Ha hibázol, azt ki kell javítanod a Backspace billentyűvel. Más szóval, csak "
+"a hibátlan szöveg lesz elfogadva."
+
+#: ../src/keyboard.c:1096
+msgid ""
+"Correct positioning of the hands and fingers is very important to efficient "
+"typing. You will learn faster and type better if you follow the next "
+"recommendations."
+msgstr ""
+"A kezek és az ujjak helyes tartása nagyon fontos a hatékony gépeléshez. Ha "
+"betartod az itteni ajánlásokat, gyorsabban fogsz tanulni és jobban gépelsz "
+"majd."
+
+#: ../src/keyboard.c:1099
+msgid ""
+"The index-finger tips rest over each of the two keys which have a small "
+"raised mark, in the center of the keyboard."
+msgstr ""
+"A mutatóujjak hegyei a két, kiemelt jelölést tartalmazó billentyű fölött "
+"vannak, a billentyűzet közepén."
+
+#: ../src/keyboard.c:1102
+msgid ""
+"These marks function as 'tactile hooks' for your fingers to remain at the "
+"correct position. This way, with a little experience, you will not need to "
+"look at the keyboard to see if your fingers are properly positioned."
+msgstr ""
+"Ezek a kidudorodások „tapintható segítségek” az ujjaidnak, hogy a megfelelő "
+"helyen maradjanak. Emiatt némi gyakorlás után nem kell többé a "
+"billentyűzetre pillantanod, hogy jó helyen van-e a kezed."
+
+#: ../src/keyboard.c:1106
+msgid ""
+"The tips of the other fingers lie naturally beside the index ones, over the "
+"keys on the same row of the keyboard."
+msgstr "A többi ujj lazán a mutatóujjak mellett fekszik, ugyanabban a sorban."
+
+#: ../src/keyboard.c:1109
+msgid "The outside edges of your thumbs rest over the space bar."
+msgstr "A hüvelykujjak külső szélei a szóköz billentyű fölött pihennek."
+
+#: ../src/keyboard.c:1111
+msgid ""
+"The part of the hands closest to the wrist (the base) rest over the table, "
+"outside the keyboard. Without this kind of support the arms would quickly "
+"tire."
+msgstr ""
+"A kezek csuklóhoz legközelebbi részei az asztalra vannak támasztva, a "
+"billentyűzeten kívül. Ezen támasz nélkül a karok hamar elfáradnak."
+
+#: ../src/keyboard.c:1114
+msgid ""
+"This is referred to as the home position for the hands. From it the fingers "
+"move all over the keyboard, reaching all the keys as naturally and quickly "
+"as possible. To reach this goal one uses a specific relation between each "
+"key and finger. This relation will be learned gradually as you complete the "
+"basic course."
+msgstr ""
+"Ez a kezek kiinduló helyzete. Innen mozdulnak az ujjak a billentyűzeten "
+"mindenhová, olyan természetesen és olyan gyorsan, ahogy csak lehet. Ezt úgy "
+"lehet elérni, hogy egy-egy billentyűt mindig egy bizonyos ujjal ütsz le. Az "
+"ujjak és billentyűk kapcsolatát a kezdő tanfolyamban fogod lépésről lépésre "
+"megtanulni."
+
+#: ../src/keyboard.c:1120
+msgid ""
+"When learning the relation between fingers and keys, it is very important "
+"that you only move the finger which must press the key and allow all other "
+"fingers to remain in the home position."
+msgstr ""
+"Az ujjaid és a billentyűk közötti kapcsolat tanulásakor nagyon fontos "
+"odafigyelned, hogy csak a megfelelő ujjad mozduljon a leütendő billentyű "
+"felé, és a többi a helyén maradjon."
+
+#: ../src/keyboard.c:1124
+msgid ""
+"After memorizing this relationship, you can relax the previous rule some, so "
+"that you can attain greater speed while typing."
+msgstr ""
+"Ha már megtanultad, hogy melyik billentyűt melyik ujjaddal üsd le, az előző "
+"szabályt veheted lazábban, hogy a leütések gyorsabbakká válhassanak."
+
+#: ../src/keyboard.c:1127
+msgid ""
+"You should be prepared to start training with the basic course. It will take "
+"effort and patience to be successful as a typist. We trust you have these "
+"and look forward to your success!"
+msgstr ""
+"Ezek után készen állsz a kezdő tanfolyam megkezdésére. Mindig jusson "
+"eszedbe: megtanulni gépelni elszántságot és türelmet kíván! Bízunk benned, "
+"reméljük sikerrel jársz!"
+
+#: ../src/keyboard.c:1138
+#, c-format
+msgid "Step %i"
+msgstr "%i. lépés"
+
+#: ../src/keyboard.c:1144
+msgid "To position the hands"
+msgstr "A kezek tartása"
+
+#: ../src/keyboard.c:1229
+msgid "Go ahead!"
+msgstr "Kezdjük!"
+
+#: ../src/keyboard.c:1236
+msgid "Relation between fingers and keys"
+msgstr "Az ujjak és a billentyűk közti kapcsolat"
+
+#: ../src/keyboard.c:1237
+msgid "Click on any key to see which finger you must use:"
+msgstr "Kattints a billentyűkre, hogy lásd, melyik ujjad kell használnod:"
+
+#: ../src/keyboard.c:1293 ../src/keyboard.c:1327
+msgid "Keyboard"
+msgstr "Billentyűzet"
+
+#: ../src/keyboard.c:1374
+msgid "Create or modify a custom keyboard layout"
+msgstr "Egyéni billentyűzetkiosztás létrehozása vagy módosítása"
+
+#: ../src/keyboard.c:1621 ../src/keyboard.c:1645
+msgid "small finger"
+msgstr "kisujj"
+
+#: ../src/keyboard.c:1624 ../src/keyboard.c:1642
+msgid "ring finger"
+msgstr "gyűrűsujj"
+
+#: ../src/keyboard.c:1627 ../src/keyboard.c:1639
+msgid "middle finger"
+msgstr "középső ujj"
+
+#: ../src/keyboard.c:1630 ../src/keyboard.c:1636
+msgid "index finger"
+msgstr "mutatóujj"
+
+#: ../src/keyboard.c:1731
+msgid "Press and edit me"
+msgstr "Nyomd meg a szerkesztéshez"
+
+#: ../src/tutor.c:300
+msgid "Lesson:"
+msgstr "Lecke:"
+
+#: ../src/tutor.c:310
+msgid "Paragraphs:"
+msgstr "Bekezdések:"
+
+#: ../src/tutor.c:343
+msgid "Klavaro - Basic Course"
+msgstr "Klavaro – Kezdő tanfolyam"
+
+#: ../src/tutor.c:348
+msgid "Klavaro - Adaptability"
+msgstr "Klavaro – Készségfejlesztés"
+
+#: ../src/tutor.c:351
+msgid ""
+"Adaptability exercises: automating the fingers responses, typing over all "
+"the keyboard."
+msgstr ""
+"Készségfejlesztő gyakorlatok: az ujjak mozgásának rutinná tétele az összes "
+"billentyű használatával."
+
+#: ../src/tutor.c:356
+msgid "Klavaro - Velocity"
+msgstr "Klavaro – Sebesség"
+
+#: ../src/tutor.c:357
+msgid "Velocity exercises: accelerate typing real words."
+msgstr ""
+"Sebességfejlesztő gyakorlatok: a sebesség növelése teljes szavak gépelésével."
+
+#: ../src/tutor.c:361
+msgid "Klavaro - Fluidness"
+msgstr "Klavaro – Folytonosság"
+
+#: ../src/tutor.c:363
+msgid "Fluidness exercises: accuracy typing good sense paragraphs."
+msgstr "Folytonossági gyakorlatok: értelmes bekezdések pontos gépelése."
+
+#: ../src/tutor.c:425
+msgid "End of exercise. Press [Enter] to start another."
+msgstr "Vége a gyakorlatnak. Új kezdéséhez nyomd meg az [Enter] billentyűt."
+
+#: ../src/tutor.c:453
+msgid "Learning the key positions."
+msgstr "A billentyűk helyének megtanulása."
+
+#: ../src/tutor.c:456
+msgid "Press any key to start the exercise. "
+msgstr "A gyakorlat elkezdéséhez nyomj meg egy billentyűt."
+
+#: ../src/tutor.c:567 ../src/tutor.c:570
+msgid "Start typing when you are ready. "
+msgstr "Ha felkészültél, kezdj gépelni."
+
+#: ../src/tutor.c:568
+msgid "Use backspace to correct errors."
+msgstr "A Backspace használatával javíthatók a hibák."
+
+#: ../src/tutor.c:1022
+#, c-format
+msgid ""
+"ps.: logging not performed for this session: the number of typed characters "
+"(%i) must be greater than %i."
+msgstr ""
+"U.i.: az eredmények nem lettek naplózva: a legépelt karakterek száma (%i) "
+"több kell legyen, mint %i."
+
+#: ../src/tutor.c:1164
+msgid "ps.: you have entered the Top 10 list, great!"
+msgstr "U.i.: felkerültél a Top 10 listára, remek!"
+
+#: ../src/tutor.c:1176
+msgid ""
+"ps.: the text you just typed doesn't seem to be similar to ordinary texts in "
+"the language currently selected: we can't account for it in the 'Top 10' "
+"contest."
+msgstr ""
+"Ui.: az előbb gépelt szöveg nem tűnik hasonlónak a jelenleg kiválasztott "
+"nyelv szokványos szövegeihez: ezért nem lehet figyelembe venni a Top 10 "
+"versenyben."
+
+#: ../src/tutor.c:1225
+msgid "STATISTICS"
+msgstr "STATISZTIKA"
+
+#: ../src/tutor.c:1226
+msgid "Elapsed time:"
+msgstr "Eltelt idő:"
+
+#: ../src/tutor.c:1227
+msgid "minute and"
+msgid_plural "minutes and"
+msgstr[0] "perc és"
+msgstr[1] "perc és"
+
+#: ../src/tutor.c:1228
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "másodperc"
+msgstr[1] "másodperc"
+
+#: ../src/tutor.c:1229
+msgid "Error ratio:"
+msgstr "Hibaarány:"
+
+#: ../src/tutor.c:1229
+msgid "Accuracy:"
+msgstr "Pontosság:"
+
+#: ../src/tutor.c:1250 ../src/tutor.c:1275 ../src/tutor.c:1298
+#: ../src/tutor.c:1324
+msgid "Goal:"
+msgstr "Cél:"
+
+#: ../src/tutor.c:1257
+msgid "Characters per second:"
+msgstr "Leütések száma másodpercenként:"
+
+#: ../src/tutor.c:1275
+msgid "(CPS)"
+msgstr "(LPM)"
+
+#: ../src/tutor.c:1280
+msgid "Words per minute:"
+msgstr "Szavak száma percenként:"
+
+#: ../src/tutor.c:1305
+msgid "Fluidness:"
+msgstr "Folytonosság:"
+
+#: ../src/tutor.c:1332
+msgid "Comments:"
+msgstr "Megjegyzések:"
+
+#: ../src/tutor.c:1814
+msgid "space"
+msgstr "szóköz"
+
+#. Translators: the name of letter Y
+#: ../src/tutor.c:1819
+msgid "wye"
+msgstr "ipszilon"
+
+#. Translators: the name of the Return key
+#: ../src/tutor.c:1823
+msgid "enter"
+msgstr "enter"
+
+#: ../src/tutor.c:1829
+msgid "apostrophe"
+msgstr "aposztróf"
+
+#. Translators: double quote symbol: "
+#: ../src/tutor.c:1833
+msgid "quote"
+msgstr "idézőjel"
+
+#. Translators: ampersand symbol: &
+#: ../src/tutor.c:1837
+msgid "ampersand"
+msgstr "és-jel"
+
+#. Error frequencies or touch times
+#.
+#: ../src/plot.c:319
+msgid "Character"
+msgstr "Karakter"
+
+#: ../src/plot.c:331
+msgid "Date & Time"
+msgstr "Dátum és idő"
+
+#: ../src/basic.c:329
+msgid "Positions of keys seems to be learned!"
+msgstr "Úgy tűnik, megtanultad a billentyűk elhelyezkedését!"
+
+#: ../src/basic.c:330
+msgid ""
+" Congratulations!\n"
+" You have accomplished the entire basic course.\n"
+" Go to the next type of exercise: adaptability.\n"
+" There you will practice mainly the accuracy.\n"
+msgstr ""
+" Gratulálunk!\n"
+" Végigcsináltad a teljes kezdő tanfolyamot.\n"
+" Folytasd a készségfejlesztő gyakorlatokkal.\n"
+" Azzal leginkább a pontosságod fogod javítani.\n"
+
+#: ../src/basic.c:336
+msgid ""
+" All right, now you got it!\n"
+" Go to the next lesson.\n"
+msgstr ""
+" Megcsináltad!\n"
+" Folytasd a következő leckével.\n"
+
+# konyvjelzo
+#: ../src/adaptability.c:215
+#, c-format
+msgid ""
+" Your accuracy rate is below %.0f%%...\n"
+" Could you please try again to improve it?\n"
+msgstr ""
+" A pontosságod %.0f%% alatt volt…\n"
+" Megpróbálnád ismét, hogy jobban menjen?\n"
+
+#: ../src/adaptability.c:218
+#, c-format
+msgid ""
+" You are doing well. But...\n"
+" Could you make the accuracy reach %.0f%%?\n"
+msgstr ""
+" Jól csinálod. Csak…\n"
+" El tudnád érni a %.0f%%-os pontosságot?\n"
+
+#: ../src/adaptability.c:221
+#, c-format
+msgid ""
+" You are almost there, but your accuracy rate is still below %.0f%%.\n"
+" Try a few more times, or maybe you're getting upset, so go to another kind "
+"of exercise.\n"
+msgstr ""
+" Már majdnem kész vagy, de még mindig nem vagy %.0f%%-ban pontos.\n"
+" Próbáld még párszor, vagy ha kezd bosszantani, csinálj inkább más típusú "
+"gyakorlatokat.\n"
+
+#: ../src/adaptability.c:228
+#, c-format
+msgid ""
+" Very good!\n"
+" You succeeded with an accuracy rate above %.0f%%.\n"
+" Now it is time to increase your velocity.\n"
+" Go to the 3rd exercise at the main menu.\n"
+msgstr ""
+" Nagyon jó!\n"
+" Több, mint %.0f%%-ban pontos voltál.\n"
+" Itt az ideje a gépelési sebesség növelésének.\n"
+" Folytasd a főmenü harmadik tanfolyamával.\n"
+
+#: ../src/velocity.c:312 ../src/fluidness.c:435
+msgid "Pasted_or_dropped"
+msgstr "Beillesztve_vagy_áthúzva"
+
+#: ../src/velocity.c:423
+msgid ""
+" You are just beginning.\n"
+" Be patient, try it again every day, rest and don't worry so much:\n"
+" persistence and practice will improve your velocity.\n"
+msgstr ""
+" Még az elején vagy.\n"
+" Légy türelmes, próbáld minden nap újra, pihenj, és ne izgulj sokat:\n"
+" a kitartó gyakorlás gyorsít a tempódon.\n"
+
+#: ../src/velocity.c:427
+#, c-format
+msgid ""
+" Still away from the highway. You can do better...\n"
+" Try to reach at least %.0f WPM.\n"
+msgstr ""
+" Messze vagy még a sztrádától. Ennél gyorsabban is megy neked!\n"
+" Próbálj legalább %.0f szót gépelni percenként.\n"
+
+#: ../src/velocity.c:430
+#, c-format
+msgid ""
+" You are doing well, but need to go faster.\n"
+" And don't forget the accuracy. Try to get %.0f WPM.\n"
+msgstr ""
+" Jól csinálod, de gyorsabban kellene.\n"
+" Ne feledd a pontosságot sem. Próbálj %.0f szót gépelni percenként.\n"
+
+#: ../src/velocity.c:433
+#, c-format
+msgid ""
+" Fine. Now you need to start running.\n"
+" Can you reach %.0f WPM?\n"
+msgstr ""
+" Remek. Most kezdhetsz száguldani.\n"
+" Le tudsz gépelni %.0f szót percenként?\n"
+
+#: ../src/velocity.c:436
+#, c-format
+msgid ""
+" Very good. You are almost there.\n"
+" Can you finally reach %.0f WPM?\n"
+msgstr ""
+" Nagyon jó. Majdnem ott vagy.\n"
+" Tudsz már percenként %.0f szót gépelni?\n"
+
+#: ../src/velocity.c:439
+msgid ""
+" Excellent. For this course, that is enough.\n"
+" Try now the fluidness exercises, OK?\n"
+msgstr ""
+" Kiváló. Ezzel a tanfolyammal kész vagy.\n"
+" Próbáld ki a folytonossági gyakorlatokat, rendben?\n"
+
+#: ../src/velocity.c:442
+#, c-format
+msgid ""
+" Fast! Are you a professional?\n"
+" So, try to get %.0f WPM!\n"
+msgstr ""
+" Gyors! Versenyre készülsz?\n"
+" Akkor próbálj %.0f szót percenként!\n"
+
+#. Translators: Speed Racer is a reference to a Japanese anime franchise
+#. about automobile racing, also known as Mach GoGoGo.
+#: ../src/velocity.c:447
+#, c-format
+msgid " Ranking good, Speed Racer! Are you afraid of reaching %.0f WPM?\n"
+msgstr " Jól állsz, bajnok! Nem félsz, hogy eléred a percenként %.0f szót?\n"
+
+#. Translators: feel free to change the reference to that martial art, if you find another good analogy.
+#: ../src/velocity.c:451
+#, c-format
+msgid ""
+" Kung-fu mastery!\n"
+" Can you fly at %.0f WPM?\n"
+msgstr ""
+" Kung-fu mester!\n"
+" Tudsz percenként %.0f szóval repülni?\n"
+
+#. Translators: Dvorak here means that infamous ergonomic keyboard layout.
+#: ../src/velocity.c:454
+msgid ""
+" Dvorak master!\n"
+" I have no words to express my admiration!\n"
+msgstr ""
+" Dvorak mester!\n"
+" Nincsenek megfelelő szavaim elismerésedre!\n"
+
+#: ../src/fluidness.c:538
+#, c-format
+msgid ""
+" You type accurately but not so fast.\n"
+" Can you reach %.0f WPM?\n"
+msgstr ""
+" Pontosan gépelsz, de nem igazán gyorsan.\n"
+" Eléred a percenkénti %.0f szót?\n"
+
+#: ../src/fluidness.c:541
+#, c-format
+msgid ""
+" Your rhythm is not so constant. Calm down.\n"
+" For now, try to make the fluidness greater than %i%%.\n"
+msgstr ""
+" Nem elég egyenletes a gépelésed ritmusa. Nyugodj meg!\n"
+" Próbálj %i%%-ban folytonosan gépelni.\n"
+
+#: ../src/fluidness.c:544
+#, c-format
+msgid ""
+" You are almost getting there. Type more fluently.\n"
+" I want a fluidness greater than %.0f%%.\n"
+msgstr ""
+" Majdnem megvan. Gépelj egyenletesebb ütemben.\n"
+" Most legalább %.0f%%-ban folytonosan gépelj.\n"
+
+#: ../src/fluidness.c:547
+msgid ""
+" Congratulations!\n"
+" It seems to me that you are a professional.\n"
+" You don't need this program (me) anymore.\n"
+" Hope you have enjoyed. Thanks and be happy!\n"
+msgstr ""
+" Gratulálunk!\n"
+" Úgy tűnik, profi vagy.\n"
+" Már nincs szükséged erre a programra.\n"
+" Reméljük, élvezted. Köszönjük és minden jót!\n"
+
+#: ../src/fluidness.c:552
+msgid ""
+" How can you type so fast?\n"
+" You have exceeded all my expectations.\n"
+" Are you a machine? Could you teach me?\n"
+" I can not help you anymore. Go to an expert!\n"
+msgstr ""
+" Hogy tudsz ilyen gyorsan gépelni?\n"
+" Minden várakozásunkat felülmúltad.\n"
+" Nem vagy te gép? Taníthatnál minket.\n"
+" Nem tudunk többet segíteni neked. Keress egy mestert!\n"
+
+#: ../src/top10.c:67
+msgid "Name"
+msgstr "Név"
+
+#: ../src/top10.c:93
+msgid "Chars"
+msgstr "Karakterek"
+
+#: ../src/top10.c:95
+msgid "When"
+msgstr "Mikor"
+
+#: ../src/top10.c:124
+msgid "Local scores"
+msgstr "Helyi eredmények"
+
+#: ../src/top10.c:125
+msgid "External scores"
+msgstr "Távoli eredmények"
+
+#: ../src/top10.c:719
+msgid "Empty ranking. Please practice fluidness."
+msgstr "Nincs helyezés. Gyakorolja a folytonosságot."
+
+#: ../src/top10.c:816
+msgid "Not able to download files"
+msgstr "A fájlok letöltése sikertelen"
+
+#: ../src/top10.c:816 ../src/top10.c:906
+msgid "not found"
+msgstr "nem található"
+
+#: ../src/top10.c:817 ../src/top10.c:907
+msgid "Are you sure you have it installed in your system?"
+msgstr "Biztos, hogy telepítve van a rendszeren?"
+
+#: ../src/top10.c:861
+msgid "Could not download file from the host server."
+msgstr "Nem tölthető le a fájl a kiszolgálóról."
+
+#: ../src/top10.c:906
+msgid "Not able to upload files"
+msgstr "A fájlokat nem lehet feltölteni"
+
+#: ../src/top10.c:987
+msgid "Could not upload/download scores."
+msgstr "A pontszámok feltöltése/letöltése sikertelen."
+
+#~ msgid "Klavaro"
+#~ msgstr "Klavaro"
+
+#~ msgid "_Font"
+#~ msgstr "_Betűkészlet"
+
+#~ msgid "Default"
+#~ msgstr "Alapértelmezett"
+
+#~ msgid ""
+#~ " Top of \"qwerty\". Now it's time to change to the Dvorak mode.\n"
+#~ " Are you afraid of reaching 80 WPM?\n"
+#~ msgstr ""
+#~ " Ez rekord a „qwerty” billentyűzeten. Itt az ideje Dvorak módra váltani.\n"
+#~ " Nem félsz, hogy eléred a percenként 80 szót?\n"

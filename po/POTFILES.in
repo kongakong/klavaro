@@ -1,0 +1,18 @@
+# List of source files containing translatable strings.
+
+data/klavaro.glade
+data/klavaro.desktop.in
+data/klavaro.appdata.xml.in
+src/main.c
+src/callbacks.c
+src/translation.c
+src/keyboard.c
+src/tutor.c
+src/cursor.c
+src/plot.c
+src/basic.c
+src/adaptability.c
+src/velocity.c
+src/fluidness.c
+src/accuracy.c
+src/top10.c

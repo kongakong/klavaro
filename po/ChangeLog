@@ -1,0 +1,5 @@
+2014-01-06  Felipe Castro  <fefcas@gmail.com>
+
+	* Makefile.in.in: keep klavaro.pot in the distribution package, only
+	remove by "make maintainer-clean"
+

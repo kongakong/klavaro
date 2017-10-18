@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Felipe Castro <fefcas@gmail.com> -->
+<component type="desktop-application">
+  <id>klavaro.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+ and GFDL-1.3</project_license>
+  <name>Klavaro</name>
+  <summary>A touch typing tutor</summary>
+  <description>
+    <p>
+     Klavaro is a very flexible touch typing tutor, supporting customizable keyboard layouts. You can edit and save new or unknown keyboard layouts, as the basic course was designed to not depend on specific ones. Also, there are some charts about the learning process, and for advanced users an online ranking scheme, comparing your typing proficiency with others.
+    </p>
+    <p>
+     Its interface is very simple, without artifacts to distract the user, and some may find this boring, but we think keyboard memorization requires a high level of concentration, and must be done by touch, not visually.
+    </p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Tutor window</caption>
+      <image>https://c.fsdn.com/con/app/proj/klavaro/screenshots/Tutor.png/1</image>
+    </screenshot>
+    <screenshot>
+      <caption>Main menu</caption>
+      <image>https://c.fsdn.com/con/app/proj/klavaro/screenshots/Main_Menu.png/1</image>
+    </screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <url type="homepage">http://klavaro.sourceforge.net/</url>
+  <url type="translate">http://klavaro.sourceforge.net/en/translation.html</url>
+  <updatecontact>fefcas_at_gmail.com</updatecontact>
+</component>

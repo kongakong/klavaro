@@ -1,0 +1,78 @@
+_____________
+Version 3.03
+- New language: Serbian!
+
+_____________
+Version 3.02
+- New languages: Catalan and Croatian!
+
+_____________
+Version 3.01
+- New languages: Slovenian and Punjabi!
+
+_____________
+Version 3.00
+
+- Moved to GTK+3!
+- Configurable goals and levels.
+- New language added: Finnish, partially.
+
+_____________
+Version 1.9.9
+
+- New language added: Greek, enjoy it!
+
+_____________
+Version 1.9.7
+
+- Now we are filtering progress charts according to keyboard (basic & adapt)
+  or language (velo & fluid). With this, the old progress logs for the
+  basic and the adapt modules will not appear anymore, because they
+  depend on the current keyboard configured in the main menu, and this
+  information wasn't saved before. For the velo and fluid modules, the
+  language was already saved in the log files, so no issues with them.
+  Anyway, the information will remain there, if the user wants to restore
+  it, editing the file directly. See:
+   $HOME/.local/share/klavaro/*.txt
+
+- Now we are dismissing keys which are not in the current keyboard (keyset),
+  in the error/speed accounting process in the adapt module, for the personal
+  practices. Results for these are saved now in specific files, for each
+  keyboard, for example as in:
+   $HOME/.local/share/klavaro/accuracy.log_querty_us
+  or
+   $HOME/.local/share/klavaro/proficiency.log_querty_us
+  The old information should be preserved in the general files:
+   $HOME/.local/share/klavaro/accuracy.log
+  and
+   $HOME/.local/share/klavaro/proficiency.log
+
+_____________
+Version 1.9.4
+
+- Colors may be configured through the file preferences.ini 
+There you should create a session named [colors] and set some
+colors with the internet/html syntax (#RRGGBB). Example:
+
+[colors]
+key_fg=#332200
+key_1=#112233
+key_9=#213243
+text_intro_fg=#222222
+char_untouched_bg=#fffaf8
+char_wrong_fg=#880000
+char_correct_fg=#009900
+char_retouched_fg=#bbbbaa
+cursor_blink_bg=#ff88ff
+
+See the README file
+
+_____________
+Version 1.9.0
+
+- Some speech, so blind people can use it!
+  You should have installed the program Espeak to hear something.
+
+- The fluidness server changed to SF.net.
+  Now, everything has been reset, sorry for the inconvenience.
+

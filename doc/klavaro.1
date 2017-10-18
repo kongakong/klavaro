@@ -1,0 +1,120 @@
+.TH KLAVARO 1 "2014-01-09" GNU "Klavaro - Manual"
+.\" Please adjust this date whenever revising the manpage.
+.\"
+.\" Some roff macros, for reference:
+.\" .ad l      left justify
+.\" .ad b      justify to both left and right margins
+.\" .nf        disable filling
+.\" .fi        enable filling
+.\" .br        insert line break
+.\" .sp <n>    insert n+1 empty lines
+.SH NAME
+Klavaro \- Flexible touch typing tutor using GTK+3
+.SH SYNOPSIS
+.B klavaro
+.SH DESCRIPTION
+.PP
+.B Klavaro
+is a program that teachs you to touch type and/or helps
+you to improve your skills with the keyboard.
+.PP
+There is some more information at:
+.PP
+http://klavaro.sourceforge.net
+.SH OPTIONS
+Besides the version option, only those related to GTK are available.
+.br
+\-h, \-\-help: see some help at command line.
+.br
+\-v, \-\-version: see the program version.
+.SH COLORS
+Some colors may be configured through the file "preferences.ini" 
+There you should create a session named [colors] and set some colors
+with the internet/html syntax (#RRGGBB). For example:
+.PP
+[colors]
+.br
+key_fg=#332200
+.br
+key_1=#112233
+.br
+key_9=#213243
+.br
+text_intro_fg=#222222
+.br
+char_untouched_bg=#fffaf8
+.br
+char_wrong_fg=#880000
+.br
+char_correct_fg=#009900
+.br
+char_retouched_fg=#bbbbaa
+.br
+cursor_blink_bg=#ff88ff
+.PP
+Here follows the complete list of keywords to set colors.
+.PP
+Background and foreground for the tutor introductory texts:
+.br
+text_intro_bg
+.br
+text_intro_fg
+.PP
+Background and foreground for the tutor texts before they be typed out:
+.br
+char_untouched_bg
+.br
+char_untouched_fg 
+.PP
+The same for the tutor texts after they be correcty typed out:
+.br
+char_correct_bg 
+.br
+char_correct_fg 
+.PP
+Same for tutor texts after they be wrongly typed:
+.br
+char_wrong_bg
+.br
+char_wrong_fg
+.PP
+Same for tutor texts after they be correcty retyped, correcting errors (only in fluidity module):
+.br
+char_retouched_bg
+.br
+char_retouched_fg 
+.PP
+Blinking color of the block cursor in the tutor tests:
+.br
+cursor_blink_bg
+.br
+cursor_blink_fg
+.PP
+Foreground of keys in the virtual keyboard:
+.br
+key_fg
+.PP
+Background of keys, according to the finger responsible for it, from left to right (key_5 is valid for both thumbs, it is the space key):
+.br
+key_1
+.br
+key_2
+.br
+key_3
+.br
+key_4
+.br
+key_5
+.br
+key_6
+.br
+key_7
+.br
+key_8
+.br
+key_9
+.SH AUTHOR
+Klavaro was written by Felipe E. F. de Castro.
+.PP
+e-mail: <fefcas@gmail.com>
+.PP

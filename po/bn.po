@@ -1,0 +1,1870 @@
+# Bangla translation.
+# Copyright (C) 2008 Ankur
+# This file is distributed under the same license as the klavaro package.
+#
+# Mahay Alam Khan (মাহে আলম খান) <mak@ankur.org.bd>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.1.7\n"
+"Report-Msgid-Bugs-To: <translation-team-eo@lists.sourceforge.net>\n"
+"POT-Creation-Date: 2017-06-25 09:16-0300\n"
+"PO-Revision-Date: 2008-11-05 16:51+0600\n"
+"Last-Translator: Md. Rezwan Shahid <rafi6047@yahoo.com>\n"
+"Language-Team: Bangla/Bengali <l10n@ankur.org.bd>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Bengali\n"
+"X-Poedit-Country: BANGLADESH\n"
+
+#: ../data/klavaro.glade.h:1
+msgid "Klavaro - Progress"
+msgstr "ক্লাভারো - অগ্রগতি"
+
+#: ../data/klavaro.glade.h:2
+#, fuzzy
+msgid "_Lesson:"
+msgstr "শিক্ষা"
+
+#: ../data/klavaro.glade.h:3
+msgid "Value"
+msgstr ""
+
+#: ../data/klavaro.glade.h:4
+#, fuzzy
+msgid "Close this window, returning to the exercise."
+msgstr "এই উইন্ডোটি বন্ধ করুন, অনুশীলনে ফিরে যান। শর্টকাট: [Esc]"
+
+#: ../data/klavaro.glade.h:5
+#, fuzzy
+msgid "_Close"
+msgstr "বন্ধ করুন"
+
+#: ../data/klavaro.glade.h:6
+msgid "Clear all the progress data, for every module."
+msgstr ""
+
+#: ../data/klavaro.glade.h:7
+#, fuzzy
+msgid "_Reset"
+msgstr "রিসেট!"
+
+#: ../data/klavaro.glade.h:8
+#, fuzzy
+msgid "Load other exercises/lessons"
+msgstr "অন্যান্য "
+
+#: ../data/klavaro.glade.h:9
+#, fuzzy
+msgid "_Other texts"
+msgstr "পূর্ণ টেক্সট"
+
+#: ../data/klavaro.glade.h:10
+msgid "Edit the character set to be used in this lesson."
+msgstr "শিক্ষায় ব্যবহৃতব্য ক্যারেকটার সেটটি পরিবর্তন করুন।"
+
+#: ../data/klavaro.glade.h:11
+msgid "This is a specific exercise, adjusted to your error profile."
+msgstr ""
+
+#: ../data/klavaro.glade.h:12
+#, fuzzy
+msgid ""
+"Edit the character set to be used in lessons after 43: they are customizable!"
+msgstr "শিক্ষায় ব্যবহৃতব্য ক্যারেকটার সেটটি পরিবর্তন করুন।"
+
+#: ../data/klavaro.glade.h:13 ../src/tutor.c:376
+msgid "Drag and drop text here to practice with it."
+msgstr "এখানে টেক্সট টেনে এনে অনুশীলন করুন।"
+
+#: ../data/klavaro.glade.h:14
+#, fuzzy
+msgid "Press here to restart the exercise. Hotkey: [Ctrl-R]"
+msgstr "অনুশীলন নতুন করে শুরু করতে চাইলে এখানে ক্লিক করুন। শর্টকাট: [Ctrl R]"
+
+#: ../data/klavaro.glade.h:15
+msgid "Show the virtual keyboard and the relation between fingers and keys."
+msgstr "ভার্চুয়াল কীবোর্ড প্রদর্শন করুন এবং আঙ্গুল ও কী এর মধ্যে সম্পর্ক প্রদর্শন করুন"
+
+#: ../data/klavaro.glade.h:16
+#, fuzzy
+msgid "_Keyboard"
+msgstr "কিবোর্ড"
+
+#: ../data/klavaro.glade.h:17
+msgid "Select the font to be used in the exercise window."
+msgstr "অনুশীলনে ব্যবহৃতব্য ফন্টটি নির্বাচন করুন।"
+
+#: ../data/klavaro.glade.h:18
+msgid "Font definition"
+msgstr "ফন্ট ডেফিনিশন"
+
+#: ../data/klavaro.glade.h:19
+#, fuzzy
+msgid "Keep this checked if you want to get those nice beeps."
+msgstr "আপনি যদি শব্দ কার্যকর রাখতে চান তাহলে এখানে টিক দিন। শর্টকাট: [Ctrl S]"
+
+#: ../data/klavaro.glade.h:20
+#, fuzzy
+msgid "_Beep"
+msgstr "সহায়িকা"
+
+#: ../data/klavaro.glade.h:21
+#, fuzzy
+msgid "Co_urse information"
+msgstr "তথ্য বাড়ান"
+
+#: ../data/klavaro.glade.h:22
+msgid "Charts showing the learning progress along the exercises."
+msgstr "অনুশীলনের সাথে শিক্ষার অগ্রগতি প্রদর্শনকারী চার্ট।"
+
+#: ../data/klavaro.glade.h:23
+#, fuzzy
+msgid "_Progress"
+msgstr "অগ্রগতি"
+
+#: ../data/klavaro.glade.h:24
+#, fuzzy
+msgid "Exit the application immediately."
+msgstr "এই মূহুর্তে অ্যাপ্লিকেশন থেকে বের হয়ে যান। শর্টকাট: [Ctrl-Q]"
+
+#: ../data/klavaro.glade.h:25
+#, fuzzy
+msgid "Return to the main menu."
+msgstr "প্রধান মেন্যুতে ফিরে যান। শর্টকাট: [Ctrl-Q]"
+
+#: ../data/klavaro.glade.h:26
+msgid "B_ack to menu"
+msgstr ""
+
+#: ../data/klavaro.glade.h:27
+msgid "Show local and external scores from other users."
+msgstr "অন্যান্য ব্যবহারকারীদের স্থানীয় এবং বহি:স্থ স্কোর প্রদর্শন করুন।"
+
+#: ../data/klavaro.glade.h:28
+#, fuzzy
+msgid "_Top 10"
+msgstr "সেরা ১০"
+
+#: ../data/klavaro.glade.h:29
+msgid "Change language"
+msgstr "ভাযা পরিবর্তন করুন"
+
+#: ../data/klavaro.glade.h:30
+msgid "Attention!"
+msgstr "সাবধান!"
+
+#: ../data/klavaro.glade.h:31
+msgid "Do you confirm?"
+msgstr "আপনি কি নিশ্চিত করছেন?"
+
+#: ../data/klavaro.glade.h:32
+#, fuzzy
+msgid "_No"
+msgstr "না"
+
+#: ../data/klavaro.glade.h:33
+#, fuzzy
+msgid "_Yes"
+msgstr "হাঁ"
+
+#: ../data/klavaro.glade.h:34
+msgid "Klavaro - Select file"
+msgstr "ক্লাভারো - ফাইল নির্বাচন করুন"
+
+#: ../data/klavaro.glade.h:35
+#, fuzzy
+msgid "_Cancel"
+msgstr "বাতিল"
+
+#: ../data/klavaro.glade.h:36
+msgid "_Open"
+msgstr ""
+
+#: ../data/klavaro.glade.h:37
+#, fuzzy
+msgid "Re_name:"
+msgstr "মুছে ফেলুন"
+
+#: ../data/klavaro.glade.h:38
+#, fuzzy
+msgid "Rename the selected item."
+msgstr "উপরের লিস্ট থেকে নির্বাচিত আইটেম মুছে ফেলুন।"
+
+#: ../data/klavaro.glade.h:39
+msgid ""
+"Read a text file and add a copy of it here. The file must be encoded in "
+"UTF-8."
+msgstr ""
+"একটি টেক্সট ফাইল পড়ুন এবং এর একটি কপি এখানে যোগ করুন। ফাইলটি অবশ্যই UTF-8 এ "
+"এনকোড করা থাকতে হবে।"
+
+#: ../data/klavaro.glade.h:40
+msgid "_Open text file"
+msgstr ""
+
+#: ../data/klavaro.glade.h:41
+#, fuzzy
+msgid "Paste text that was copied to the clipboard."
+msgstr "ক্লিপবোর্ডে কপি করা টেক্ট এখানে পেস্ট করুন। শর্টকাট: [Ctrl-V]"
+
+#: ../data/klavaro.glade.h:42
+msgid "_Paste from clipboard"
+msgstr ""
+
+#: ../data/klavaro.glade.h:43
+#, fuzzy
+msgid "Remove the selected item."
+msgstr "উপরের লিস্ট থেকে নির্বাচিত আইটেম মুছে ফেলুন।"
+
+#: ../data/klavaro.glade.h:44
+#, fuzzy
+msgid "_Remove copied file"
+msgstr "নির্বাচিতগুলো মুছে ফেলুন"
+
+#: ../data/klavaro.glade.h:45
+msgid "Apply the selected item to create an exercise."
+msgstr "নতুন অনুশীলন তৈরি করতে নির্বাচিত আইটেম গুলো কার্যকর করুন।"
+
+#: ../data/klavaro.glade.h:46
+msgid "_Apply"
+msgstr ""
+
+#: ../data/klavaro.glade.h:47
+msgid "Close this window."
+msgstr "এই উইন্ডো বন্ধ করুন।"
+
+#: ../data/klavaro.glade.h:48
+msgid "Country / Custom"
+msgstr ""
+
+#: ../data/klavaro.glade.h:49
+msgid "Variant"
+msgstr ""
+
+#: ../data/klavaro.glade.h:50
+#, fuzzy
+msgid "Remove the selected custom layout."
+msgstr "উপরের লিস্ট থেকে নির্বাচিত আইটেম মুছে ফেলুন।"
+
+#: ../data/klavaro.glade.h:51
+#, fuzzy
+msgid "_Remove"
+msgstr "মুছে ফেলুন"
+
+#: ../data/klavaro.glade.h:52
+msgid ""
+"Toggles the shift effect on the keys. Alternates between the upper and lower "
+"characters of the keys."
+msgstr ""
+"কী-এর shift প্রভাব পরিবর্তন করে। কী-এর উপর এবং নিম্ন বর্নমালার  মধ্যে অন্ত:পরিবর্তন "
+"করে।"
+
+#: ../data/klavaro.glade.h:53
+msgid "SPACE BAR"
+msgstr "স্পেসবার"
+
+#: ../data/klavaro.glade.h:54 ../src/keyboard.c:1633
+msgid "thumbs"
+msgstr "বুড়ো আঙ্গুল"
+
+#: ../data/klavaro.glade.h:55
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: ../data/klavaro.glade.h:56
+msgid "Caps"
+msgstr "ক্যাপস্"
+
+#: ../data/klavaro.glade.h:57
+#, fuzzy
+msgid "S_ave as:"
+msgstr "সংরক্ষণ করুন"
+
+#: ../data/klavaro.glade.h:58
+msgid "Show previous screen."
+msgstr ""
+
+#: ../data/klavaro.glade.h:59
+msgid "_Previous step"
+msgstr ""
+
+#: ../data/klavaro.glade.h:60
+msgid "Show next screen."
+msgstr ""
+
+#: ../data/klavaro.glade.h:61
+msgid "_Next step"
+msgstr ""
+
+#: ../data/klavaro.glade.h:62
+#, fuzzy
+msgid "Return without any modification."
+msgstr "কোনো পরিবর্তন না করে ফিরে যান। শর্টকাট: [Esc]"
+
+#: ../data/klavaro.glade.h:63
+msgid "Save the current keyboard layout with the name specified above."
+msgstr "এই কিবোর্ড লেআউটটি উপরে উল্লিখিত নামে সংরক্ষণ করুন"
+
+#: ../data/klavaro.glade.h:64
+#, fuzzy
+msgid "_Save and use"
+msgstr "সংরক্ষণ করুন"
+
+#: ../data/klavaro.glade.h:65
+#, fuzzy
+msgid ""
+"If you like those beautiful hands, click here to close this window keeping "
+"them."
+msgstr ""
+"আপনি যদি এই সুন্দর হাতগুলো পাশে রাখতে চান, তাহলে এই উইন্ডো বন্ধ করার পূর্বে এখানে "
+"ক্লিক করুন।"
+
+#: ../data/klavaro.glade.h:66
+#, fuzzy
+msgid "_Keep hands"
+msgstr "হাতটি রাখুন"
+
+#: ../data/klavaro.glade.h:67
+msgid "Klavaro - Main menu"
+msgstr "ক্লাভারো - প্রধান মেনু"
+
+#: ../data/klavaro.glade.h:68
+msgid "Don't be shy about learning the basics!"
+msgstr "শুরু থেকে শিখতে লজ্জা পাবেন না!"
+
+#: ../data/klavaro.glade.h:69
+#, fuzzy
+msgid "Learn how to type correctly"
+msgstr "কিভাবে সঠিক টাইপ করা যায়"
+
+#: ../data/klavaro.glade.h:70
+msgid "Initial training for your fingers."
+msgstr "আপনার আঙ্গুলের জন্য প্রারম্ভিক প্রশিক্ষণ"
+
+#: ../data/klavaro.glade.h:71
+#, fuzzy
+msgid "First steps with initial training"
+msgstr "প্রারম্ভিক অনুশীলন"
+
+#: ../data/klavaro.glade.h:72
+msgid "Memorizing the keyboard practicing random keys exercises."
+msgstr "এলোমেলো কী (key) অনুশীলনের মাধ্যমে কীবোর্ড মনে রাখা।"
+
+#: ../data/klavaro.glade.h:73
+#, fuzzy
+msgid "Practice with random keys"
+msgstr "পূর্ণ টেক্সট"
+
+#: ../data/klavaro.glade.h:74
+#, fuzzy
+msgid "Accelerating the touches practicing random words exercises."
+msgstr "এলোমেলো শব্দ অনুশীলনের মাধ্যমে হাতের গতি বাড়ানো।"
+
+#: ../data/klavaro.glade.h:75
+#, fuzzy
+msgid "Practice with random words"
+msgstr "পূর্ণ টেক্সট"
+
+#: ../data/klavaro.glade.h:76
+msgid "Becoming proficient practicing complete paragraphs exercises."
+msgstr "পূর্ণ প্যারাগ্রাফ অনুশীলন করে দক্ষ হয়ে উঠুন।"
+
+#: ../data/klavaro.glade.h:77
+#, fuzzy
+msgid "Practice with complete texts"
+msgstr "পূর্ণ টেক্সট"
+
+#: ../data/klavaro.glade.h:78
+msgid "Speech"
+msgstr ""
+
+#: ../data/klavaro.glade.h:79
+msgid "Your language here."
+msgstr ""
+
+#: ../data/klavaro.glade.h:80
+msgid ""
+"Keyboard layout for modules 1 and 2. Also used informatively in the "
+"fluidness contest."
+msgstr ""
+
+#: ../data/klavaro.glade.h:81
+#, fuzzy
+msgid "_Keyboard:"
+msgstr "কিবোর্ড"
+
+#: ../data/klavaro.glade.h:82
+msgid "Language for modules 3 and 4."
+msgstr ""
+
+#: ../data/klavaro.glade.h:83
+#, fuzzy
+msgid "_Language:"
+msgstr "ভা‌ষা"
+
+#: ../data/klavaro.glade.h:84
+msgid "Little tip about this program."
+msgstr "এই অ্যাপ্লিকেশন সম্পর্কিত কিছু টিপ।"
+
+#: ../data/klavaro.glade.h:85
+#, fuzzy
+msgid "_Help"
+msgstr "সহায়িকা"
+
+#: ../data/klavaro.glade.h:86
+#, fuzzy
+msgid "General information about the program."
+msgstr "এই অ্যাপ্লিকেশন সম্পর্কিত কিছু টিপ।"
+
+#: ../data/klavaro.glade.h:87
+#, fuzzy
+msgid "_About..."
+msgstr "ফ্লাভারো সম্পর্কিত..."
+
+#: ../data/klavaro.glade.h:88
+msgid "About 'Klavaro'"
+msgstr "'ক্লাভারো' সম্পর্কিত"
+
+#: ../data/klavaro.glade.h:89 ../data/klavaro.desktop.in.h:1
+msgid "Yet another touch typing tutor"
+msgstr "আরেকটি স্পর্শ টাইপিং শিক্ষক"
+
+#: ../data/klavaro.glade.h:90
+msgid "Remember always: someone loves you!"
+msgstr "সবসময় মনে রাখবেন: কেউ একজন আপনাকে ভালবাসে!"
+
+#: ../data/klavaro.glade.h:91
+msgid "Help?"
+msgstr "সাহায্য?"
+
+#: ../data/klavaro.glade.h:92
+msgid "This is a tip. Now you press this button to return to the main menu."
+msgstr "এটি একটি টিপ। এখন প্রধান মেন্যুতে ফিরে যেতে এখানে চাপুন।"
+
+#: ../data/klavaro.glade.h:93
+#, fuzzy
+msgid ""
+"The main menu of the application is very straightforward. Just select the "
+"type of exercise you wish to take. Do not worry about clicking any button on "
+"the screen. The buttons will never hurt you!"
+msgstr ""
+"এটি অ্যাপ্লিকেশনটির প্রধান মেন্যু এবং এটি খুব সহজ। আপনি কি ধরণের অনুশীলন করতে চান "
+"সেটি নির্বাচন করুন। কোনো বোতামে ক্লিক করতে ভয় পাবেন না: এগুলো আপনাকে আঘাত করবেনা!"
+
+#: ../data/klavaro.glade.h:94
+msgid ""
+"Also the controls have tips which will appear if you hover over them with "
+"your mouse. These tips can come in very handy. To see how these tips work, "
+"position your mouse over the button below, and without clicking, wait for "
+"the tip to appear..."
+msgstr ""
+"প্রতিটি নিয়ন্ত্রণের উপরে নির্দেশনা দেখানো পর্যন্ত অপেক্ষা করতে ভুলবেন না । মাঝে মাঝে "
+"এগুলো সহায়ক হতে পারে। নির্দেশনাগুলো কিভাবে কাজ করে সেটি দেখতে, অনুগ্রহ করে ক্লিক "
+"না করে, মাউসটি নিচের বোতামের উপর ধরে রাখুন এবং, নির্দেশনা না দেখানো পর্যন্ত "
+"কিছুক্ষন অপেক্ষা করুন..."
+
+#: ../data/klavaro.glade.h:95
+msgid "Top 10"
+msgstr "সেরা ১০"
+
+#: ../data/klavaro.glade.h:96
+#, fuzzy
+msgid "Show extra information."
+msgstr "তথ্য বাড়ান"
+
+#: ../data/klavaro.glade.h:97
+#, fuzzy
+msgid "Hide extra information."
+msgstr "তথ্য বাড়ান"
+
+#: ../data/klavaro.glade.h:98
+#, fuzzy
+msgid "Publish to the web your local scores."
+msgstr "আপনার স্থানীয় স্কোর কনফিগার করা হোস্টের কাছে পাবলিশ করুন।"
+
+#: ../data/klavaro.glade.h:99
+#, fuzzy
+msgid "_Participate"
+msgstr "অংশগ্রহন করুন"
+
+#: ../data/klavaro.glade.h:100
+msgid "Download from the web the most up to date ranking."
+msgstr ""
+
+#: ../data/klavaro.glade.h:101
+#, fuzzy
+msgid "_Update"
+msgstr "আপডেট"
+
+#: ../data/klavaro.desktop.in.h:2
+#, fuzzy
+msgid "A very flexible and efficient touch typing tutor."
+msgstr "আরেকটি স্পর্শ টাইপিং শিক্ষক"
+
+#. Translators: these are keywords related to the program. CAI above means Computer Aided Instruction. Feel free to add and/or change the keywords in your language.
+#: ../data/klavaro.desktop.in.h:4
+#, fuzzy
+msgid "keyboard;typing;tutor;CAI"
+msgstr "কিবোর্ড"
+
+#: ../src/main.c:238
+msgid "(Custom)"
+msgstr ""
+
+#: ../src/main.c:239
+msgid "(Edit custom)"
+msgstr ""
+
+#: ../src/main.c:240
+#, fuzzy
+msgid "(Default)"
+msgstr "ডিফল্ট"
+
+#: ../src/main.c:317
+#, c-format
+msgid "Dictation mode (depends on this speech synthesizer: %s)"
+msgid_plural "Dictation mode (depends on one of these speech synthesizers: %s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../src/main.c:360 ../src/keyboard.c:1293
+msgid "Introduction"
+msgstr "পরিচিতি"
+
+#: ../src/main.c:363 ../src/top10.c:109
+msgid "Basic course"
+msgstr "প্রারম্ভিক কোর্স"
+
+#: ../src/main.c:366 ../src/top10.c:112
+msgid "Adaptability"
+msgstr "সঙ্গতিপ্রবণতা (খাপ খাওয়াবার ক্ষমতা)"
+
+#: ../src/main.c:369 ../src/callbacks.c:1243 ../src/top10.c:89
+#: ../src/top10.c:115
+msgid "Speed"
+msgstr ""
+
+#: ../src/main.c:372 ../src/callbacks.c:1266 ../src/top10.c:91
+#: ../src/top10.c:118
+msgid "Fluidity"
+msgstr ""
+
+#: ../src/callbacks.c:414 ../src/tutor.c:515
+#, fuzzy
+msgid "Keys:"
+msgstr "কী (Key): %s"
+
+#: ../src/callbacks.c:791 ../src/callbacks.c:807
+msgid "Connecting..."
+msgstr ""
+
+#: ../src/callbacks.c:1078
+msgid "Overwrite user layout"
+msgstr "ব্যবহারকারীর লেআউট ওভাররাইট করুন"
+
+#: ../src/callbacks.c:1080
+msgid "This will OVERWRITE an existent keyboard layout."
+msgstr "এটি বর্তমানে উপস্থিত একটি কীবোর্ড লেআউট ওভাররাইট করবে।"
+
+#: ../src/callbacks.c:1087
+msgid "Remove user layout"
+msgstr "ব্যবহারকারীর লেআউট মুছে ফেলুন"
+
+#: ../src/callbacks.c:1089
+msgid "This will REMOVE an existent keyboard layout."
+msgstr "এটি বর্তমানে উপস্থিত একটি কীবোর্ড লেআউট মুছে ফেলবে।"
+
+#: ../src/callbacks.c:1096
+msgid "Reset progress data"
+msgstr ""
+
+#: ../src/callbacks.c:1097
+msgid "This will DELETE all the progress data shown in the charts."
+msgstr ""
+
+#: ../src/callbacks.c:1240 ../src/top10.c:87
+msgid "Accuracy"
+msgstr "নির্ভুলতা"
+
+#: ../src/callbacks.c:1243 ../src/tutor.c:1298
+msgid "(WPM)"
+msgstr "(WPM)"
+
+#: ../src/callbacks.c:1254
+msgid "Errors"
+msgstr ""
+
+#: ../src/callbacks.c:1257
+msgid "Touch times (s)"
+msgstr ""
+
+#: ../src/callbacks.c:1269 ../src/tutor.c:1325 ../src/top10.c:69
+msgid "Score"
+msgstr "স্কোর"
+
+#. Translators: your language code (first 2 letters of your po-file)
+#: ../src/translation.c:506 ../src/tutor.c:1735
+msgid "en"
+msgstr "bn"
+
+#: ../src/translation.c:593
+msgid ""
+"The basic course focuses on having you read the characters presented to you "
+"on screen and typing the corresponding keys. Remember to keep your hands "
+"correctly oriented on the home row of the keyboard at all times (see "
+"introduction on main menu)."
+msgstr ""
+"প্রারম্ভিক কোর্সে, আপনাকে উইন্ডোতে দেখানো অক্ষরগুলো পড়তে হবে এবং এর সংশ্লিষ্ট কী "
+"(key) চাপতে হবে। কীবোর্ডের হোম অবস্থান থেকে সঠিক অবস্থানে আঙ্গুল গুলো সরানো মনে "
+"রাখবেন (প্রধান মেনুতে নির্দেশনা দে‌‌‌‌‌‌‌‌‌‌‌‌‌খুন)।"
+
+#: ../src/translation.c:597
+msgid ""
+"The key set used in each series will be shown in the above message line. The "
+"[Space], [Shift] and [Enter] keys may not show up there but are used very "
+"often."
+msgstr ""
+"প্রত্যেক সিরিজে ব্যবহৃত কী-সেট উপরের একটি বার্তা লাইনে দেখানো হবে। [স্পেস] ,"
+"[শিফট], এবং [এন্টার] কীগুলো সেখানে নাও দেখানো হতে পারে কারন সবাই জানে যে এগুলো "
+"খুব বেশি ব্যবহার করা হয়।"
+
+#: ../src/translation.c:600
+msgid ""
+"The message line below follows and echoes your key presses. If required, it "
+"changes and displays instructions for actions required from you."
+msgstr ""
+"নিচের বার্তা লাইন আপনার স্পর্শ অনুসরন করে এবং  সেই অক্ষরটি দেখায়। যদি প্রয়োজন হয়, "
+"তাহলে এটি আপনার করনীয় পরিবর্তন করবে এবং এ সম্পর্কে নির্দেশনা দিবে।"
+
+#: ../src/translation.c:604
+msgid ""
+"Here you may practice and improve your memorization of all keys. There will "
+"be sentences presented with nonsense words which mix some numbers and "
+"symbols."
+msgstr ""
+"এখানে আপনি অনুশীলন করতে পারবেন এবং সবগুলো কী (key) এর অবস্থান মুখস্থ করতে পারবেন। "
+"এতে কিছু অর্থ বিহীন শব্দ, মিশ্রিত অবস্থায় বিভিন্ন সংখ্যা এবং চিহ্ন থাকবে।"
+
+#: ../src/translation.c:607
+msgid ""
+"In order to keep the lesson contents language and keyboard independent, "
+"accented letter combinations will probably not appear. For real word "
+"sentences, please use the fourth option of the main menu (about fluidness)."
+msgstr ""
+"কীবোর্ড লেআউট এবং ভাষার স্বাধীনতা বজায় রাখতে, উচ্চারিত অক্ষরের সমাবেশ নাও ঘটতে "
+"পারে। বাক্য ব্যবহার করে আসল শব্দের অনুশীলন করতে প্রধান মেনুর (দ্রুততা সম্পর্কে) ৪র্থ "
+"পছন্দ ব্যবহার করুন।"
+
+#: ../src/translation.c:611
+msgid ""
+"After each exercise there will be a brief statistics panel reviewing your "
+"performance along with some relevant comments."
+msgstr ""
+"প্রত্যেক অনুশীলনীর শেষে, আপনার কর্মদক্ষতার একটি পরিসংখ্যান এবং এর সাথে সম্পর্কিত "
+"মন্তব্য আপনাকে দেখানো হবে।"
+
+#: ../src/translation.c:615
+msgid ""
+"This exercise is very similar to the second one, for adaptability. The "
+"difference is that here you'll type real words."
+msgstr ""
+"এই অনুশীলনটিও দ্বিতীয় অনুশীলনটির মত, খাপ খাওয়ানোর জন্য। পার্থক্য হলো এখানে আপনাকে "
+"প্রকৃত শব্দসমূহ টাইপ করতে হবে।"
+
+#: ../src/translation.c:618
+msgid ""
+"The default language is the actual one of the interface. But you may select "
+"any other texts with words you would like to use. Press the 'Other' option "
+"above and add files containing those texts."
+msgstr ""
+"পূর্ব নির্ধারিত ভাষাটি ইন্টারফেসের আসল ভাষা। কিন্তু আপনি ব্যবহারের জন্য শব্দসহ অণ্য "
+"কোনো টেক্সট নির্বাচন করতে পারবেন। উপরের 'অণ্য' অপশনটি চাপুন এবং ওই টেক্সটসমূহ "
+"ধারণকারী ফাইলগুলো যুক্ত করুন।"
+
+#: ../src/translation.c:622
+msgid ""
+"With this exercise the focus is on speed. So, you are supposed to type "
+"really fast and I will only flatter you when you deserve it!"
+msgstr ""
+"এই অনুশীলনের উদ্দেশ্য হলো গতি। তাই, আপনাকে খুব  দ্রুত টাইপ করতে হবে এবং কেবলমাত্র "
+"তখনই আমি আপনাকে সাধুবাদ জানাবো যখন আপনি এটির যোগ্যতা অর্জন করবেন!"
+
+#: ../src/translation.c:626
+msgid ""
+"We will now use complete sentences and paragraphs which make logical sense. "
+"This may distract you while you type if you try to understand what you are "
+"entering. The previous exercises were aimed at getting you to type without "
+"interpreting and analyzing the content."
+msgstr ""
+"এখন আমরা অর্থবহ পূর্ণ বাক্য এবং অনুচ্ছেদ নিয়ে কাজ করবো। যখন টাইপিস্ট বোঝার চেস্টা "
+"করে যে সে কি লিখছে, তখন তার মনোযোগ ব্যাহত হতে পারে। আপনি যদি পূর্ববর্তী "
+"অনুশীলনগুলো করে থাকেন, তাহলে এতে আপনার কোন রকম অসুবিধা হওয়ার কথা না যেহেতু "
+"টেক্সটকে না বুঝে এবং গবেযনা না করে টাইপ করার অভ্যাস আপনার হয়ে গিয়েছে।"
+
+#: ../src/translation.c:630
+msgid ""
+"We do not mean to imply that the typists must behave like a robot, without "
+"understanding what they type. We do aim to develop the skill of typing, "
+"making it an automatic reflex akin to the acts of walking, talking, etc. "
+"After reaching this goal, the act of typing will become automatic and "
+"require little concentration. Then you will be able to pay attention to the "
+"real meaning of the text."
+msgstr ""
+"আমরা এটা বলছি না যে, একজন টাইপিস্ট কি লিখছে তা না বুঝে রেবোটের মত আচরণ করবে। "
+"টাইপিং এর দক্ষতা উন্নতি করে আমারা টাইপিংকে হাঁটা, কথা বলা ইত্যাদির মত সাবলিল "
+"করতে চাই। এই স্তরে পৌঁছানোর পরে টাইপ করতে আপনাকে যুদ্ধ করতে হবে না: আপনি পাঠ্যের "
+"অর্থের দিকে মনোযোগ দিতে পারবেন।"
+
+#: ../src/translation.c:634
+#, fuzzy
+msgid ""
+"These exercises are longer. Each exercise consists of three paragraphs and "
+"the emphasis is placed on correctness and rhythm, with a minimum speed "
+"requirement. Here you will be required to use the backspace key to correct "
+"any mistakes. In other words, only input without error will be accepted."
+msgstr ""
+"এই অনুশীলনগুলো অপেক্ষাকৃত বড়। প্রত্যেকটি অনুশীলন তিনটি অনুচ্ছেদ দিয়ে গঠিত এবং একটি "
+"মোটামুটি গতিসীমা রেখে নির্ভূলতা এবং ছন্দের উপর বেশি গুরুত্ব দেয়া হয়েছে। এখানে কোন "
+"ভূল সঠিক করতে আপনি অবশ্যই ব্যাকস্পেস কী ব্যবহার করবেন। অন্যভাবে বলা যায়, শুধুমাত্র "
+"ত্রুটিহীন টেক্সট গ্রহন করা হবে।"
+
+#: ../src/keyboard.c:1096
+#, fuzzy
+msgid ""
+"Correct positioning of the hands and fingers is very important to efficient "
+"typing. You will learn faster and type better if you follow the next "
+"recommendations."
+msgstr ""
+"সুদক্ষভঅবে টাইপ করার জন্য হাত এবং আঙ্গুলসমূহের সঠিক অবস্থান অত্যন্ত জরুরী। পরামর্শসমূহ "
+"অনুসরণ করুন এবং আপনি দ্রুত শিখতে পারবেন।"
+
+#: ../src/keyboard.c:1099
+msgid ""
+"The index-finger tips rest over each of the two keys which have a small "
+"raised mark, in the center of the keyboard."
+msgstr ""
+
+#: ../src/keyboard.c:1102
+#, fuzzy
+msgid ""
+"These marks function as 'tactile hooks' for your fingers to remain at the "
+"correct position. This way, with a little experience, you will not need to "
+"look at the keyboard to see if your fingers are properly positioned."
+msgstr ""
+"বি.দ্র.:  আপনার আঙ্গুলসমূহকে সঠিক অবস্থানে রাখার জন্য এগুলো 'স্পর্শগ্রাহ্য  হুক' হিসেবে "
+"কাজ করে; এভাবে, একটু অভিজ্ঞতার মাধ্যমে, আঙ্গুলের সঠিক অবস্থান নিশ্চিত করার জন্য "
+"আপনার আর কি-বোর্ড দেখার প্রয়োজন হবে না। এর ফলে প্রতিবার কী তে স্পর্শ করার পর "
+"আপনার হাত স্বাভাবিকভাবে সঠিক অবস্থানে চলে আসবে।"
+
+#: ../src/keyboard.c:1106
+#, fuzzy
+msgid ""
+"The tips of the other fingers lie naturally beside the index ones, over the "
+"keys on the same row of the keyboard."
+msgstr "৩)  অন্য আঙ্গুলসমূহ তর্জনীর পাশের একই লাইনে সন্নিহিত কীসমূহের উপরে থাকবে।"
+
+#: ../src/keyboard.c:1109
+#, fuzzy
+msgid "The outside edges of your thumbs rest over the space bar."
+msgstr "২)  উভয় বৃদ্ধাঙ্গুলের পার্শ্ব স্পেসবারের উপরে থাকবে।"
+
+#: ../src/keyboard.c:1111
+#, fuzzy
+msgid ""
+"The part of the hands closest to the wrist (the base) rest over the table, "
+"outside the keyboard. Without this kind of support the arms would quickly "
+"tire."
+msgstr ""
+"৪)  কব্জির কাছের হাতের অংশ (ভিত্তি) কি-বোর্ডের বাইরে, টেবিলের উপরে থাকে। এই "
+"ধরণের সমর্থন ছাড়া বাহুগুলো অতি দ্রুত ক্লান্ত হয়ে পরবে।"
+
+#: ../src/keyboard.c:1114
+msgid ""
+"This is referred to as the home position for the hands. From it the fingers "
+"move all over the keyboard, reaching all the keys as naturally and quickly "
+"as possible. To reach this goal one uses a specific relation between each "
+"key and finger. This relation will be learned gradually as you complete the "
+"basic course."
+msgstr ""
+"একে হাতের হোম অবস্থান বলা হয়। এই অবস্থান থেকে আঙ্গুল গুলো কীবোর্ডের উপর সব গুলো কী-"
+"তে স্বাভাবিকভাবে এবং যত দ্রুত সম্ভব পৌছতে পারে। এটি করতে ব্যবহারকারীকে প্রত্যেক কী "
+"এর সাথে আঙ্গুলের একটি সুনির্দিস্ট সম্পর্ক স্থাপন করতে হবে। এই সম্পর্কগুলো প্রারম্ভিক "
+"কোর্সে শেখানো হবে।"
+
+#: ../src/keyboard.c:1120
+msgid ""
+"When learning the relation between fingers and keys, it is very important "
+"that you only move the finger which must press the key and allow all other "
+"fingers to remain in the home position."
+msgstr ""
+"যখন আঙ্গুল এবং সঠিক কী এর সম্পর্ক শেখানো হবে, তখন আপনাকে চেষ্টা করতে হবে যেন একটি "
+"কী চাপতে আপনার নির্দিষ্ট আঙ্গুলটি নড়ে এবং যতদূর সম্ভব অন্যান্য আঙ্গুল গুলো তাদের আসল "
+"অবস্থানে থাকে।"
+
+#: ../src/keyboard.c:1124
+msgid ""
+"After memorizing this relationship, you can relax the previous rule some, so "
+"that you can attain greater speed while typing."
+msgstr ""
+"এই সম্পর্ক মুখস্ত করার পরে, আপনি পূর্ববর্তী নিয়মটি হালকাভাবে নিতে পারবেন, যাতে করে "
+"গতি এবং দ্রুততা বৃদ্ধি করা সম্ভব হয়।"
+
+#: ../src/keyboard.c:1127
+msgid ""
+"You should be prepared to start training with the basic course. It will take "
+"effort and patience to be successful as a typist. We trust you have these "
+"and look forward to your success!"
+msgstr ""
+"এই বর্ণনার পরে,আপনার এই প্রারম্ভিক কোর্সটি আরম্ভ করা উচিৎ। এবং সর্বদা মনে রাখবেন: "
+"স্পর্শ-টাইপ এর জন্য ইচ্ছা এবং ধৈর্য্য প্রয়োজন! আমরা আপনাকে বিশ্বাস করি, আমদেরকে হতাশ "
+"করবেন না, তাই না?"
+
+#: ../src/keyboard.c:1138
+#, c-format
+msgid "Step %i"
+msgstr ""
+
+#: ../src/keyboard.c:1144
+#, fuzzy
+msgid "To position the hands"
+msgstr "হাতের অবস্থান ঠিক করতে:"
+
+#: ../src/keyboard.c:1229
+msgid "Go ahead!"
+msgstr ""
+
+#: ../src/keyboard.c:1236
+#, fuzzy
+msgid "Relation between fingers and keys"
+msgstr "আঙ্গুল ও কী এর মধ্যে সম্পর্ক প্রদর্শন করুন"
+
+#: ../src/keyboard.c:1237
+#, fuzzy
+msgid "Click on any key to see which finger you must use:"
+msgstr ""
+"এখানে কোন আঙ্গুল ব্যবহার করা উচিত\n"
+"তা দেখার জন্য\n"
+"উপরের যেকোনোটিটে ক্লিক করুন"
+
+#: ../src/keyboard.c:1293 ../src/keyboard.c:1327
+msgid "Keyboard"
+msgstr "কিবোর্ড"
+
+#: ../src/keyboard.c:1374
+#, fuzzy
+msgid "Create or modify a custom keyboard layout"
+msgstr "নতুন কিবোর্ড লেআউটের জন্য একটি নাম লিখুন"
+
+#: ../src/keyboard.c:1621 ../src/keyboard.c:1645
+msgid "small finger"
+msgstr "কনিষ্ঠা"
+
+#: ../src/keyboard.c:1624 ../src/keyboard.c:1642
+msgid "ring finger"
+msgstr "অনামিকা"
+
+#: ../src/keyboard.c:1627 ../src/keyboard.c:1639
+msgid "middle finger"
+msgstr "মধ্যমা"
+
+#: ../src/keyboard.c:1630 ../src/keyboard.c:1636
+msgid "index finger"
+msgstr "তর্জনী"
+
+#: ../src/keyboard.c:1731
+#, fuzzy
+msgid "Press and edit me"
+msgstr "একটি কী চাপুন"
+
+#: ../src/tutor.c:300
+msgid "Lesson:"
+msgstr "শিক্ষা"
+
+#: ../src/tutor.c:310
+msgid "Paragraphs:"
+msgstr "প্যারাগ্রাফ:"
+
+#: ../src/tutor.c:343
+msgid "Klavaro - Basic Course"
+msgstr "ক্লাভারো - প্রারম্ভিক কোর্স"
+
+#: ../src/tutor.c:348
+msgid "Klavaro - Adaptability"
+msgstr "ক্লাভারো - মানিয়ে নেয়া"
+
+#: ../src/tutor.c:351
+msgid ""
+"Adaptability exercises: automating the fingers responses, typing over all "
+"the keyboard."
+msgstr ""
+"মানিয়ে নেয়ার অনুশীলন: আঙ্গুলগুলো স্বয়ংক্রিয়ভাবে সাড়া দেয়, পুরো কীবোর্ড-র উপর টাইপ "
+"করা। "
+
+#: ../src/tutor.c:356
+msgid "Klavaro - Velocity"
+msgstr "ক্লাভারো - গতি"
+
+#: ../src/tutor.c:357
+msgid "Velocity exercises: accelerate typing real words."
+msgstr "গতি অনুশীলন: আসল শব্দ টাইপ করে গতি বাড়ান।  "
+
+#: ../src/tutor.c:361
+msgid "Klavaro - Fluidness"
+msgstr "ক্লাভারো - দ্রুততা"
+
+#: ../src/tutor.c:363
+msgid "Fluidness exercises: accuracy typing good sense paragraphs."
+msgstr "দ্রুততা অনুশীলন: ভালো প্যারাগ্রাফ টাইপ করে নির্ভুলতা বাড়ান। "
+
+#: ../src/tutor.c:425
+#, fuzzy
+msgid "End of exercise. Press [Enter] to start another."
+msgstr "<<==  অনুশীলনের সমাপ্তি। আরেকটি শুরু করতে [Enter] চাপুন। ==>> "
+
+#: ../src/tutor.c:453
+msgid "Learning the key positions."
+msgstr "কী (key)-র অবস্থান শিখুন। "
+
+#: ../src/tutor.c:456
+msgid "Press any key to start the exercise. "
+msgstr "অনুশীলন শুরু করতে যেকোনো কী (key) চাপুন।"
+
+#: ../src/tutor.c:567 ../src/tutor.c:570
+msgid "Start typing when you are ready. "
+msgstr "আপনি যখন প্রস্তুত হবেন তখন টাইপিং শুরু করুন।  "
+
+#: ../src/tutor.c:568
+msgid "Use backspace to correct errors."
+msgstr ""
+
+#: ../src/tutor.c:1022
+#, c-format
+msgid ""
+"ps.: logging not performed for this session: the number of typed characters "
+"(%i) must be greater than %i."
+msgstr ""
+"বি: দ্র: এই সেশনের জন্য লগিং সম্পন্ন হয়নি: টাইপ করা ক্যারেক্টার এর সংখ্যা (%i) %i "
+"এর চেয়ে বেশি হতে হবে।   "
+
+#: ../src/tutor.c:1164
+msgid "ps.: you have entered the Top 10 list, great!"
+msgstr "বি: দ্র: আপনি সেরা ১০ এর লিস্টে ঢুকে গেছেন, দারুন! "
+
+#: ../src/tutor.c:1176
+msgid ""
+"ps.: the text you just typed doesn't seem to be similar to ordinary texts in "
+"the language currently selected: we can't account for it in the 'Top 10' "
+"contest."
+msgstr ""
+"বি: দ্র: আপনি যেই টেক্সট টাইপ করেছেন সেটি বর্তমানে নির্বাচিত ভাষার সাধারন টেক্সট-"
+"র মত লাগছে না: আমরা এটিকে 'সেরা ১০' এ স্থান দিতে পারছি না।  "
+
+#: ../src/tutor.c:1225
+msgid "STATISTICS"
+msgstr "পরিসংখ্যান"
+
+#: ../src/tutor.c:1226
+msgid "Elapsed time:"
+msgstr "অতিবাহিত সময়:"
+
+#: ../src/tutor.c:1227
+msgid "minute and"
+msgid_plural "minutes and"
+msgstr[0] "মিনিট এবং"
+msgstr[1] "মিনিট এবং\t"
+
+#: ../src/tutor.c:1228
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "সেকেন্ড"
+msgstr[1] "সেকেন্ড"
+
+#: ../src/tutor.c:1229
+msgid "Error ratio:"
+msgstr ""
+
+#: ../src/tutor.c:1229
+msgid "Accuracy:"
+msgstr "নির্ভুলতা:"
+
+#: ../src/tutor.c:1250 ../src/tutor.c:1275 ../src/tutor.c:1298
+#: ../src/tutor.c:1324
+msgid "Goal:"
+msgstr "উদ্দেশ্য:"
+
+#: ../src/tutor.c:1257
+msgid "Characters per second:"
+msgstr "প্রতি সেকেন্ডে ক্যারেক্টার: "
+
+#: ../src/tutor.c:1275
+msgid "(CPS)"
+msgstr "(CPS)"
+
+#: ../src/tutor.c:1280
+msgid "Words per minute:"
+msgstr "প্রতি মিনিটে শব্দ:"
+
+#: ../src/tutor.c:1305
+msgid "Fluidness:"
+msgstr "দ্রুততা"
+
+#: ../src/tutor.c:1332
+msgid "Comments:"
+msgstr "মন্তব্য:"
+
+#: ../src/tutor.c:1814
+msgid "space"
+msgstr ""
+
+#. Translators: the name of letter Y
+#: ../src/tutor.c:1819
+msgid "wye"
+msgstr ""
+
+#. Translators: the name of the Return key
+#: ../src/tutor.c:1823
+msgid "enter"
+msgstr ""
+
+#: ../src/tutor.c:1829
+msgid "apostrophe"
+msgstr ""
+
+#. Translators: double quote symbol: "
+#: ../src/tutor.c:1833
+msgid "quote"
+msgstr ""
+
+#. Translators: ampersand symbol: &
+#: ../src/tutor.c:1837
+msgid "ampersand"
+msgstr ""
+
+#. Error frequencies or touch times
+#.
+#: ../src/plot.c:319
+msgid "Character"
+msgstr ""
+
+#: ../src/plot.c:331
+msgid "Date & Time"
+msgstr ""
+
+#: ../src/basic.c:329
+msgid "Positions of keys seems to be learned!"
+msgstr "মনে হচ্ছে কী(key) গুলোর অবস্থান শেখা হয়ে গেছে!"
+
+#: ../src/basic.c:330
+msgid ""
+" Congratulations!\n"
+" You have accomplished the entire basic course.\n"
+" Go to the next type of exercise: adaptability.\n"
+" There you will practice mainly the accuracy.\n"
+msgstr ""
+" অভিন্দন!\n"
+" আপনি পুরো বেসিক কোর্স শেষ করেছেন।\n"
+" পরবর্তী ধরনের অনুশীলনে যান: মানিয়ে নেয়া।\n"
+" সেখানে আপনি প্রধানত নির্ভুলতা অনুশীলনে করবেন।\n"
+
+#: ../src/basic.c:336
+msgid ""
+" All right, now you got it!\n"
+" Go to the next lesson.\n"
+msgstr ""
+" ঠিক আছে, এবার হয়েছে!\n"
+" পরবর্তী শিক্ষাতে যান।\n"
+
+#: ../src/adaptability.c:215
+#, fuzzy, c-format
+msgid ""
+" Your accuracy rate is below %.0f%%...\n"
+" Could you please try again to improve it?\n"
+msgstr ""
+" আপনার নির্ভুলতার মাত্রা ৯০% এর নিচে...\n"
+" আপনি কি অনুগ্রহ করে এর উন্নতি করার চেষ্টা করবেন?\n"
+
+#: ../src/adaptability.c:218
+#, fuzzy, c-format
+msgid ""
+" You are doing well. But...\n"
+" Could you make the accuracy reach %.0f%%?\n"
+msgstr ""
+" আপনি ভালো করছেন। কিন্তু...\n"
+" আপনি কি নির্ভুলতার মাত্রা ৯৫% এ নিতে পারেন?\n"
+
+#: ../src/adaptability.c:221
+#, fuzzy, c-format
+msgid ""
+" You are almost there, but your accuracy rate is still below %.0f%%.\n"
+" Try a few more times, or maybe you're getting upset, so go to another kind "
+"of exercise.\n"
+msgstr ""
+" আপনি প্রায় পৌছে গেছেন, কিন্তু আপনার নির্ভুলতার মাত্রা এখনও ৯৮% এর নিচে।\n"
+" আরো কয়েকবার চেষ্টা করুন, অথবা আপনি হয়তো বিষন্ন হয়ে পরছেন, তাই অন্য ধরনের "
+"অনুশীলন এ যান।\n"
+
+#: ../src/adaptability.c:228
+#, fuzzy, c-format
+msgid ""
+" Very good!\n"
+" You succeeded with an accuracy rate above %.0f%%.\n"
+" Now it is time to increase your velocity.\n"
+" Go to the 3rd exercise at the main menu.\n"
+msgstr ""
+" খুব ভালো!\n"
+" আপনি নির্ভুলতার মাত্রা ৯৮% এর অধিক করতে সফল হয়েছেন।\n"
+" এবার আপনার গতি বাড়ানোর সময়।\n"
+" প্রধান মেন্যুর ৩য় অনুশীলনে যান।\n"
+
+#: ../src/velocity.c:312 ../src/fluidness.c:435
+msgid "Pasted_or_dropped"
+msgstr "Pasted_or_dropped"
+
+#: ../src/velocity.c:423
+msgid ""
+" You are just beginning.\n"
+" Be patient, try it again every day, rest and don't worry so much:\n"
+" persistence and practice will improve your velocity.\n"
+msgstr ""
+" আপনি সবেমাত্র শুরু করেছেন।\n"
+" ধৈর্য ধরুন, প্রতিদিন চেষ্টা করুন, বিশ্রাম নিন এবং বেশি চিন্তা করবেন না:\n"
+" পরিশ্রম এবং অনুশীলন করলে আপনার গতি বাড়বে।\n"
+
+#: ../src/velocity.c:427
+#, fuzzy, c-format
+msgid ""
+" Still away from the highway. You can do better...\n"
+" Try to reach at least %.0f WPM.\n"
+msgstr ""
+" এখনও আপনি অনেক দূরে। আপনি আরো ভালো করতে পারেন...\n"
+" অন্তত ২০ WPM করার চেষ্টা করুন।\n"
+
+#: ../src/velocity.c:430
+#, fuzzy, c-format
+msgid ""
+" You are doing well, but need to go faster.\n"
+" And don't forget the accuracy. Try to get %.0f WPM.\n"
+msgstr ""
+" আপনি ভালো করছেন, কিন্তু আরো দ্রুত হওয়া দরকার।\n"
+" এবং নির্ভুলতার কথা ভুলে যাবেন না। ৩০ WPM করার চেষ্টা করুন।\n"
+
+#: ../src/velocity.c:433
+#, fuzzy, c-format
+msgid ""
+" Fine. Now you need to start running.\n"
+" Can you reach %.0f WPM?\n"
+msgstr ""
+" ভালো। এবার আপনাকে দৌড়াতে হবে।\n"
+" আপনি কি ৪০ WPM করতে পারেন?\n"
+
+#: ../src/velocity.c:436
+#, fuzzy, c-format
+msgid ""
+" Very good. You are almost there.\n"
+" Can you finally reach %.0f WPM?\n"
+msgstr ""
+" খুব ভালো। আপনি প্রায় পৌছে গিয়েছেন।\n"
+" আপনি কি শেষ পর্যন্ত ৫০ WPM এ পৌছতে পারেন?\n"
+
+#: ../src/velocity.c:439
+msgid ""
+" Excellent. For this course, that is enough.\n"
+" Try now the fluidness exercises, OK?\n"
+msgstr ""
+" দারুন। এই কোর্স এর জন্য এটি যথেষ্ট।\n"
+" এখন দ্রুততার অনুশীলন করুন, ঠিক আছে?\n"
+
+#: ../src/velocity.c:442
+#, fuzzy, c-format
+msgid ""
+" Fast! Are you a professional?\n"
+" So, try to get %.0f WPM!\n"
+msgstr ""
+" দ্রুত! আপনি কি প্রতিযোগিতার জন্য অনুশীলন করছেন?\n"
+" ৭০ WPM করার চেষ্টা করুন।\n"
+
+#. Translators: Speed Racer is a reference to a Japanese anime franchise
+#. about automobile racing, also known as Mach GoGoGo.
+#: ../src/velocity.c:447
+#, c-format
+msgid " Ranking good, Speed Racer! Are you afraid of reaching %.0f WPM?\n"
+msgstr ""
+
+#. Translators: feel free to change the reference to that martial art, if you find another good analogy.
+#: ../src/velocity.c:451
+#, fuzzy, c-format
+msgid ""
+" Kung-fu mastery!\n"
+" Can you fly at %.0f WPM?\n"
+msgstr ""
+" Dvorak মোড চলছে!\n"
+" আপনি কি ৯০ WPM এ উড়তে পারেন?\n"
+
+#. Translators: Dvorak here means that infamous ergonomic keyboard layout.
+#: ../src/velocity.c:454
+msgid ""
+" Dvorak master!\n"
+" I have no words to express my admiration!\n"
+msgstr ""
+" Dvorak মাস্টার!\n"
+" আমি প্রশংসা করার ভাষা খুজে পাচ্ছিনা!\n"
+
+#: ../src/fluidness.c:538
+#, fuzzy, c-format
+msgid ""
+" You type accurately but not so fast.\n"
+" Can you reach %.0f WPM?\n"
+msgstr ""
+" আপনি নির্ভুলভাবে টাইপ করেন কিন্তু যথেষ্ট তাড়াতাড়ি নয়।\n"
+" আপনি কি ৫০ WPM এ পৌছতে পারেন?\n"
+
+#: ../src/fluidness.c:541
+#, fuzzy, c-format
+msgid ""
+" Your rhythm is not so constant. Calm down.\n"
+" For now, try to make the fluidness greater than %i%%.\n"
+msgstr ""
+" আপনার ছন্দ যথেষ্ট স্থির নয়। আস্তে করুন।\n"
+" এখন, দ্রুততা ৭০% এর অধিক করার চেষ্টা করুন।\n"
+
+#: ../src/fluidness.c:544
+#, fuzzy, c-format
+msgid ""
+" You are almost getting there. Type more fluently.\n"
+" I want a fluidness greater than %.0f%%.\n"
+msgstr ""
+" আপনি প্রায় পৌছে যাচ্ছেন। আরো দ্রুত টাইপ করুন।\n"
+" আমি ৮০% এর অধিক দ্রুততা চাই।\n"
+
+#: ../src/fluidness.c:547
+msgid ""
+" Congratulations!\n"
+" It seems to me that you are a professional.\n"
+" You don't need this program (me) anymore.\n"
+" Hope you have enjoyed. Thanks and be happy!\n"
+msgstr ""
+" অভিনন্দন!\n"
+" আমার মনে হচ্ছে আপনি অত্যন্ত দক্ষ হয়ে গিয়েছেন।\n"
+" আপনার এই প্রোগ্রামটির (আমাকে) আর প্রয়োজন নেই।\n"
+" আশা করি আপনি উপভোগ করেছেন। ধন্যবাদ!\n"
+
+#: ../src/fluidness.c:552
+msgid ""
+" How can you type so fast?\n"
+" You have exceeded all my expectations.\n"
+" Are you a machine? Could you teach me?\n"
+" I can not help you anymore. Go to an expert!\n"
+msgstr ""
+" আপনি কিভাবে এতো দ্রুত টাইপ করেন?\n"
+" আপনি আমার সব আশা ছাড়িয়ে গিয়েছেন।\n"
+" আপনি কি একটি যন্ত্র? আপনি কি আমাকে শেখাবেন?\n"
+" আমি আপনাকে আর সাহায্য করতে পারব না। একজন বিশেষজ্ঞের কাছে যান!\n"
+
+#: ../src/top10.c:67
+msgid "Name"
+msgstr ""
+
+#: ../src/top10.c:93
+msgid "Chars"
+msgstr "ক্যারেক্টার"
+
+#: ../src/top10.c:95
+msgid "When"
+msgstr "কখন"
+
+#: ../src/top10.c:124
+msgid "Local scores"
+msgstr "স্থানীয় স্কোর"
+
+#: ../src/top10.c:125
+#, fuzzy
+msgid "External scores"
+msgstr "এখনই বহিঃস্থ ফলাফলের তালিক করুন!"
+
+#: ../src/top10.c:719
+msgid "Empty ranking. Please practice fluidness."
+msgstr ""
+
+#: ../src/top10.c:816
+msgid "Not able to download files"
+msgstr "ফাইল ডাউনলোড করতে ব্যর্থ"
+
+#: ../src/top10.c:816 ../src/top10.c:906
+msgid "not found"
+msgstr "পাওয়া যায়নি"
+
+#: ../src/top10.c:817 ../src/top10.c:907
+msgid "Are you sure you have it installed in your system?"
+msgstr "আপনি কি নিশ্চিত যে এটি আপনার সিস্টেমে ইনস্টল করা আছে?"
+
+#: ../src/top10.c:861
+msgid "Could not download file from the host server."
+msgstr "হোস্ট সার্ভার থেকে ফাইল ডাউনলোড করতে ব্যর্থ।"
+
+#: ../src/top10.c:906
+msgid "Not able to upload files"
+msgstr "ফাইল আপলোড করতে ব্যর্থ।"
+
+#: ../src/top10.c:987
+#, fuzzy
+msgid "Could not upload/download scores."
+msgstr "লোকাল স্কোর আপলোড করা যায়নি।"
+
+#~ msgid ""
+#~ " Top of \"qwerty\". Now it's time to change to the Dvorak mode.\n"
+#~ " Are you afraid of reaching 80 WPM?\n"
+#~ msgstr ""
+#~ " \"qwerty\" এর চূড়ায় পৌছে গিয়েছেন। এখন Dvorak মোড-এ যাওয়ার সময় হয়েছে।\n"
+#~ " আপনি কি ৮০ WPM এ পৌছতে ভয় পাচ্ছেন?\n"
+
+#~ msgid "Press here to restart the exercise. Hotkey: [Ctrl R]"
+#~ msgstr "অনুশীলন নতুন করে শুরু করতে চাইলে এখানে ক্লিক করুন। শর্টকাট: [Ctrl R]"
+
+#, fuzzy
+#~ msgid "Klavaro"
+#~ msgstr "'Klavaro'"
+
+#~ msgid "Default"
+#~ msgstr "ডিফল্ট"
+
+#, fuzzy
+#~ msgid ""
+#~ "Local scores\n"
+#~ "External scores"
+#~ msgstr "বহি:স্থ স্কোর"
+
+#, fuzzy
+#~ msgid "About..."
+#~ msgstr "ফ্লাভারো সম্পর্কিত..."
+
+#~ msgid "No valid host"
+#~ msgstr "কোনো বৈধ হোস্ট নেই"
+
+#~ msgid "nothing done"
+#~ msgstr "কিছুই করা হয়নি"
+
+#~ msgid "No valid user is defined"
+#~ msgstr "কোনো বৈধ ব্যবহারকারী ডিফাইন করা হয়নি।"
+
+#~ msgid "No valid password is defined"
+#~ msgstr "কোনো বৈধ পাসওয়ার্ড ডিফাইন করা হয়নি।"
+
+#~ msgid "Not able to reach default host."
+#~ msgstr "ডিফল্ট হোস্টে পৌছানো যায়নি।"
+
+#, fuzzy
+#~ msgid "Close this window. Hotkey: [Esc]"
+#~ msgstr "এই উইন্ডো বন্ধ করুন।"
+
+#, fuzzy
+#~ msgid ""
+#~ " You did not succeed.\n"
+#~ " The accuracy must be above %.0f%%.\n"
+#~ " Try again!\n"
+#~ msgstr ""
+#~ "আপনি সফল হননি।\n"
+#~ "নির্ভুলতা ৯৫ % এর অধিক হতে হবে।\n"
+#~ "আবার চেষ্টা করুন!\n"
+
+#~ msgid ""
+#~ " Your error rate is too high.\n"
+#~ " Maybe you are not ready to practice this exercise.\n"
+#~ " Did you accomplish most of the basic course lessons?\n"
+#~ msgstr ""
+#~ " আপনার ভুলের মাত্রা অনেক বেশি।\n"
+#~ " সম্ভবত আপনি এই অনুশীলন চেষ্টা করতে প্রস্তুত নন।\n"
+#~ " আপনি কি বেসিক কোর্স শিক্ষাগুলোর বেশিরভাগ সম্পন্ন করেছিলেন?\n"
+
+#, fuzzy
+#~ msgid ""
+#~ " Your accuracy rate is not good enough.\n"
+#~ " I only can rely on you if it is greater than %.0f%%.\n"
+#~ " Please calm down and try it again.\n"
+#~ msgstr ""
+#~ " আপনার নির্ভুলতার মাত্রা যথেষ্ট ভালো নয়।\n"
+#~ " আপনার নির্ভুলতার মাত্রা ৯৭% এর উপর হলেই কেবলমাত্র আমি আপনার উপর ভরসা করতে "
+#~ "পারি।\n"
+#~ " অনুগ্রহ করে স্থির হন এবং আবার চেষ্টা করুন।\n"
+
+#, fuzzy
+#~ msgid ""
+#~ " Your accuracy rate is not good enough.\n"
+#~ " I want it greater than %.0f%%.\n"
+#~ msgstr ""
+#~ " আপনার নির্ভুলতার মাত্রা যথেষ্ট ভালো নয়।\n"
+#~ " আমি এটি ৯৮% এর অধিক চাই।\n"
+
+#~ msgid "Velocity"
+#~ msgstr "গতি"
+
+#~ msgid "Fluidness"
+#~ msgstr "দ্রুততা"
+
+#~ msgid "Failed to copy scoring file."
+#~ msgstr "স্কোরিং ফাইল কপি করতে ব্যর্থ।"
+
+#, fuzzy
+#~ msgid "WPM"
+#~ msgstr "(WPM)"
+
+#~ msgid "Accuracy (%)"
+#~ msgstr "নির্ভুলতা (%)"
+
+#, fuzzy
+#~ msgid "Speed (WPM)"
+#~ msgstr "(WPM)"
+
+#, fuzzy
+#~ msgid "Fluidity (%)"
+#~ msgstr "দ্রুততা (%)"
+
+#~ msgid "Go to the exercise's introduction."
+#~ msgstr "অনুশীলনের শুরুতে যান।"
+
+#~ msgid "Informations about this application, Klavaro."
+#~ msgstr "এই অ্যাপ্লিকেশন, ক্লাভারো সম্পর্কে তথ্য।"
+
+#~ msgid "Close this window and return to the lesson. Hotkey: [Esc]"
+#~ msgstr "এই উইন্ডো বন্ধ করুন এবং শিক্ষায় ফিরে যান। শর্টকাট: [Esc]"
+
+#~ msgid ""
+#~ "1)  The index-finger tips rest over each of the two keys which have a "
+#~ "small raised mark, in the center of the keyboard. Most keyboards are of "
+#~ "the 'qwerty' type, where these two keys are the 'F' and the 'J' keys. On "
+#~ "the other hand, in an American Dvorak keyboard, they are the 'U' and the "
+#~ "'H' keys."
+#~ msgstr ""
+#~ "১)  কি-বোর্ডের কেন্দ্রীয় এলাকায়, যে দুটি কি একটু উঁচু রয়েছে সেখানে দুই হাতের দুই "
+#~ "তর্জনী রাখতে হবে। বেশীরভাগ কি-বোর্ড 'qwerty' ধরণের, যেখানে সেই দুটি কী হলো "
+#~ "'F' এবং  'J'। অন্যদিকে আমেরিকান Dvorak কি-বোর্ডে এই কী গুলো 'U'এবং 'H'। "
+#~ "মাঝেমধ্যে এদেরকে 'হোম' কী বলা হয়।"
+
+#~ msgid "Virtual Keyboard"
+#~ msgstr "ভার্চুয়াল কিবোর্ড"
+
+#~ msgid "Paste"
+#~ msgstr "পেস্ট"
+
+#~ msgid "OK"
+#~ msgstr "ঠিক আছে"
+
+#, fuzzy
+#~ msgid "gtk-cancel"
+#~ msgstr "বাতিল"
+
+#~ msgid "basic course"
+#~ msgstr "বেসিক কোর্স"
+
+#~ msgid "adaptability exercises"
+#~ msgstr "মানিয়ে নেয়া অনুশীলন"
+
+#~ msgid "velocity exercises"
+#~ msgstr "গতি অনুশীলন"
+
+#~ msgid "fluidness exercises"
+#~ msgstr "দ্রুততা অনুশীলন"
+
+#~ msgid "--> Default"
+#~ msgstr "--> ডিফল্ট"
+
+#~ msgid "Velocity (WPM)"
+#~ msgstr "গতি (WPM)"
+
+#~ msgid "Show further information for each record."
+#~ msgstr "প্রতিটি রেকর্ডের জন্য আরো তথ্য প্রদর্শন করুন।"
+
+#~ msgid ""
+#~ "This will CHANGE also this interface.\n"
+#~ "If you are selecting a language you do not understand, \n"
+#~ "maybe it will be difficult to get back to the previous one."
+#~ msgstr ""
+#~ "এটি এই ইন্টারফেসটি ও পরিবর্তন করবে।\n"
+#~ "আপনি যদি এমন একটি ভাষা নির্বাচন করেন যেটি আপনি বোঝেন না, \n"
+#~ "তাহলে আগেরটিটে ফিরে যেতে অসুবিধা হতে পারে।"
+
+#~ msgid ""
+#~ "Oops! You must save the\n"
+#~ "modified keyboard layout\n"
+#~ "or choose another one\n"
+#~ "before proceeding."
+#~ msgstr ""
+#~ "সামনে যাওয়ার আগে \n"
+#~ "আপনাকে পরিবর্তিত কীবোর্ড লেআউট সংরক্ষণ করতে হবে \n"
+#~ "বা অন্য একটি পছন্দ করতে হবে।"
+
+#~ msgid "Press the correspondent key on the real keyboard."
+#~ msgstr "আসল কিবোর্ডের সংশ্লিষ্ট কী চাপুন।"
+
+#~ msgid "Reset lesson"
+#~ msgstr "শিক্ষা রিসেট করুন"
+
+#~ msgid ""
+#~ "Confirming this, you will have to accomplish\n"
+#~ "all the lessons again, since the first one,\n"
+#~ "because its count will be RESET."
+#~ msgstr ""
+#~ "এটি নিশ্চিত করলে আপনাকে প্রথম থেকে \n"
+#~ "সব শিক্ষা আবার গ্রহন করতে হবে, \n"
+#~ "কারন এটির কাউন্ট রিসেট করা হবে।"
+
+#~ msgid "+"
+#~ msgstr "+"
+
+#~ msgid "Click here with the mouse and press a key."
+#~ msgstr "মাউস দিয়ে এখানে ক্লিক করুন এবং একটি কী চাপুন।"
+
+#~ msgid "Close without any modification. Hotkey: [Esc]"
+#~ msgstr "কোনো পরিবর্তন না করে বন্ধ করুন। শর্টকাট: [Esc]"
+
+#, fuzzy
+#~ msgid "Random keys"
+#~ msgstr "এলোমেলো কী (key)"
+
+#, fuzzy
+#~ msgid "Random words"
+#~ msgstr "এলোমেলো শব্দ"
+
+#~ msgid "Exit"
+#~ msgstr "বাহির"
+
+#~ msgid "Klavaro - Select or create your keyboard layout"
+#~ msgstr "ক্লাভারো - আপনার কিবোর্ড লেআউট নির্বাচন বা তৈরি করুন।"
+
+#~ msgid "Original layouts"
+#~ msgstr "উপস্থিত লেআউটসমূহ"
+
+#~ msgid "Custom layouts"
+#~ msgstr "নিজের পছন্দের লেআউট"
+
+#~ msgid "Load"
+#~ msgstr "লোড করুন"
+
+#~ msgid ""
+#~ "Remove the layout shown above from the user defined list of available "
+#~ "ones."
+#~ msgstr "উপরে নির্দেশিত কিবোর্ড লেআউটটি মুছে ফেলুন"
+
+#~ msgid "New custom layout"
+#~ msgstr "নতুন নিজের পছন্দের লেআউট"
+
+#~ msgid "Edit"
+#~ msgstr "পরিবর্তন করুন"
+
+#~ msgid "Select the above keyboard layout."
+#~ msgstr "উপরে নির্দেশিত কিবোর্ড লেআউটটি নির্বাচন করুন"
+
+#~ msgid "Select"
+#~ msgstr "নির্বাচন করুন"
+
+#~ msgid "Layout to be selected"
+#~ msgstr "যে লেআউটটি নির্বাচন করা হবে"
+
+#~ msgid "VIRTUAL KEYBOARD"
+#~ msgstr "ভার্চুয়াল কিবোর্ড"
+
+#~ msgid "( layout modified: save it before get out )"
+#~ msgstr "(লেআউট পরিবর্তন করা হয়েছে: বের হওয়ার পূর্বে সংরক্ষন করুন)"
+
+#~ msgid "( layout saved as \".tmp\" )"
+#~ msgstr "(লেআউট সংরক্ষন করা হয়েছে \".tmp\" রুপে)"
+
+#~ msgid "Revert to the current lesson."
+#~ msgstr "বর্তমান শিক্ষার পূর্বাবস্থায় প্রত্যাবর্তন করুন।"
+
+#~ msgid "Revert"
+#~ msgstr "পূর্বাবস্থায় প্রত্যাবর্তন করুন"
+
+#~ msgid ""
+#~ "Forgets the current lesson, restarting the course from the introduction."
+#~ msgstr "বর্তমান শিক্ষা বাদ দিয়ে কোর্সটি নতুন করে শুরু করে"
+
+#~ msgid "Other"
+#~ msgstr "অন্যান্য"
+
+#~ msgid "Sound"
+#~ msgstr "সাউন্ড"
+
+#~ msgid "Restart"
+#~ msgstr "রিস্টার্ট"
+
+#~ msgid "Apply selected"
+#~ msgstr "নির্বাচিতগুলো কার্যকর করুন"
+
+#~ msgid "Read from file... (UTF-8)"
+#~ msgstr "ফাইল থেকে পড়ুন...(UTF-8)"
+
+#~ msgid "Learning evolution:"
+#~ msgstr "ইভল্যুশন শেখা:"
+
+#~ msgid "Shows the accuracy for the last 50 exercises accomplished."
+#~ msgstr "সর্বশেষ ৫০ টি অনুশীলনের নির্ভুলতা প্রদর্শন করে।"
+
+#~ msgid "Shows the velocity for the last 50 exercises accomplished."
+#~ msgstr "সর্বশেষ ৫০ টি অনুশীলনের গতি প্রদর্শন করে।"
+
+#~ msgid "Shows the fluidness for the last 50 exercises accomplished."
+#~ msgstr "সর্বশেষ ৫০ টি অনুশীলনের দ্রুততা প্রদর্শন করে।"
+
+#~ msgid "Shows the scores for the last 50 exercises accomplished."
+#~ msgstr "সর্বশেষ ৫০ টি অনুশীলনের স্কোর প্রদর্শন করে।"
+
+#~ msgid "Return"
+#~ msgstr "ফিরে যান"
+
+#~ msgid ""
+#~ "PAY ATTENTION: this button removes the first placed typist. If you are "
+#~ "sure, confirm in the check box beside."
+#~ msgstr ""
+#~ "সতর্কতা: এই বাটনটি এক নম্বর টাইপিস্টকে মুছে দিবে। আপনি যদি নিশ্চিত হন, তাহলে "
+#~ "পাশের চেকবক্সে নিশ্চিত করুন।"
+
+#~ msgid "Exclude the 1st"
+#~ msgstr "প্রথমটি বাদ দিন"
+
+#~ msgid "I'm sure."
+#~ msgstr "আমি নিশ্চিত।"
+
+#~ msgid "Version:"
+#~ msgstr "ভার্সন:"
+
+#~ msgid "by:"
+#~ msgstr "দ্বারা:"
+
+#~ msgid "E-mail:"
+#~ msgstr "ই-মেইল:"
+
+#~ msgid "Home-page:"
+#~ msgstr "হোমপেজ:"
+
+#~ msgid "STARTED! => "
+#~ msgstr "শুরু হয়েছে! => "
+
+#~ msgid "<<==  End of lesson. Press [Enter] to start another. ==>> "
+#~ msgstr "<<==  শিক্ষার সমাপ্তি। আরেকটি শুরু করতে [Enter] চাপুন। ==>> "
+
+#~ msgid "Press any key to start the lesson. "
+#~ msgstr "শিক্ষা শুরু করতে যেকোনো কী (key) চাপুন। "
+
+#~ msgid "Choose or edit the keyboard layout used by you."
+#~ msgstr "আপনার ব্যবহৃত কিবোর্ড লেআউট পছন্দ বা পরিবর্তন করুন।"
+
+#~ msgid "Define"
+#~ msgstr "নির্ধারন করুন"
+
+#~ msgid "Choose the language of this interface and of the whole course."
+#~ msgstr "এই ইন্টারফেস এবং পুরো কোর্স এর ভাষা নির্বাচন করুন।"
+
+#~ msgid "Apply the language selected beside."
+#~ msgstr "নির্বাচিত ভাষাটি ব্যবহার করুন।"
+
+#~ msgid "Update!"
+#~ msgstr "আপডেট!"
+
+#~ msgid "< Configuring >"
+#~ msgstr "< কনফিগার করা হচ্ছে >"
+
+#~ msgid "< Learning >"
+#~ msgstr "< শিক্ষা গ্রহণ >"
+
+#~ msgid "Choose one of the originally available keyboard layouts."
+#~ msgstr "উপস্থিত কিবোর্ড লেআউটগুলোর একটি নির্বাচন করুন।"
+
+#~ msgid "Choose one of these user defined keyboard layouts."
+#~ msgstr "ব্যবহারকারী দ্বারা নির্ধারিত কিবোর্ড লেআউটগুলোর একটি নির্বাচন করুন।"
+
+#~ msgid "Couldn't find pixmap file: %s"
+#~ msgstr "pixmap ফাইল পাওয়া যায়নি: %s"
+
+#~ msgid "<____|"
+#~ msgstr "<____|"
+
+#~ msgid "<---"
+#~ msgstr "<---"
+
+#~ msgid "|-->|"
+#~ msgstr "|-->|"
+
+#~ msgid " -->"
+#~ msgstr " -->"
+
+#~ msgid "[ _1 ] -"
+#~ msgstr "[ _১ ] -"
+
+#~ msgid "[ _2 ] -"
+#~ msgstr "[ _২ ] -"
+
+#~ msgid "[ _3 ] -"
+#~ msgstr "[ _৩ ] -"
+
+#~ msgid "[ _4 ] -"
+#~ msgstr "[ _৪ ] -"
+
+#~ msgid "[ _0 ] -"
+#~ msgstr "[ _০ ] -"
+
+#~ msgid ""
+#~ "Download from the configured host the last ranking (it must be ranked by "
+#~ "the maintainer of the host)."
+#~ msgstr ""
+#~ "কনফিগারকৃত হোস্ট হতে, তৈরীকৃত তালিকা ডাউনলোড করুন (এটি অবশ্যই হোস্টের "
+#~ "রক্ষণাবেক্ষণকারী দ্বারা প্রস্তুত করা হতে হবে)।"
+
+#~ msgid ""
+#~ "If you don't know any other server to host global scoring files, use the "
+#~ "default one maintained by Klavaro's administrators."
+#~ msgstr ""
+#~ "আপনি যদি অন্য কোনো সার্ভার এর কথা না জানেন যেটি সার্বিক স্কোর সংরক্ষন করে, "
+#~ "তাহলে ক্লাভারোর অ্যাডমিনিস্ট্রেটর দ্বারা নির্ধারিত ডিফল্টটি ব্যবহার করুন।   "
+
+#~ msgid "Use Klavaro's default host"
+#~ msgstr "ক্লাভারোর ডিফল্ট হোস্ট ব্যবহার করুন"
+
+#~ msgid ""
+#~ "If you know another server to host global scoring files, you can indicate "
+#~ "it here. You should have the keys..."
+#~ msgstr ""
+#~ "আপনি যদি অন্য কোনো সার্ভার এর কথা জানেন যেটি সার্বিক স্কোর সংরক্ষন করে, আপনি "
+#~ "সেটি এখানে দিতে পারেন। আপনার কাছে কী থাকা উচিত... "
+
+#~ msgid "Use other host"
+#~ msgstr "অন্য হোস্ট ব্যবহার করুন"
+
+#~ msgid "Host 1 (uploads):"
+#~ msgstr "হোস্ট ১ (আপলোড):"
+
+#~ msgid "User:"
+#~ msgstr "ব্যবহারকারী:"
+
+#~ msgid "Password:"
+#~ msgstr "পাসওয়ার্ড:"
+
+#~ msgid ""
+#~ "Where to publish your local scorings. We use FTP to do that. Just enter "
+#~ "the domain here. The subdirectory we assume as being the user name."
+#~ msgstr ""
+#~ "আপনার স্থানীয় স্কোর কোথায় পাবলিশ করা হবে। এটি করার জন্য আমরা FTP ব্যবহার "
+#~ "করি। এখানে শুধু ডোমেইন এন্টার করুন। আমরা ব্যবহারকারীর নামটি সাবডিরেক্টরি হিসেবে "
+#~ "ব্যবহার করব।"
+
+#~ msgid "In order to upload files, we need the user name."
+#~ msgstr "ফাইল আপলোড করার জন্য ব্যবহারকারীর নাম প্রয়োজন।"
+
+#~ msgid ""
+#~ "And we need also the password. Be aware that your data may be sent "
+#~ "through plain text, as we use simple FTP here."
+#~ msgstr ""
+#~ "এবং আমাদের পাসওয়ার্ডটিও প্রয়োজন। সতর্ক থাকুন এই ব্যপারে, আপনার ডাটা প্লেইন "
+#~ "টেক্সট এর মাধ্যমে পাঠানো হবে, কারন আমরা সরল FTP ব্যবহার করি।  "
+
+#~ msgid "Host 2 (downloads):"
+#~ msgstr "হোস্ট ২ (ডাউনলোড):"
+
+#~ msgid ""
+#~ "Where to retrieve the global scoring files from. We use HTTP to do that. "
+#~ "Just enter the domain and the subdirectory here."
+#~ msgstr ""
+#~ "কোথা হতে সার্বিক স্কোরিং ফাইল নেয়া হবে।  এটি করার জন্য আমরা HTTP ব্যবহার "
+#~ "করি। এখানে শুধু ডোমেইন এবং সাবডিরেক্টরি এন্টার করুন।"
+
+#~ msgid ""
+#~ "If you own a server to host global scoring files, you can specify the "
+#~ "fields above to manage it."
+#~ msgstr ""
+#~ "আপনার যদি একটি নিজস্ব সার্ভার থাকে যেটি সার্বিক স্কোরিং ফাইল রাখে, সেটি "
+#~ "পরিচালনা করার জন্য উপরের ফিল্ডগুলো পূরণ করতে পারেন।"
+
+#~ msgid "Manage the host 2 (downloads)"
+#~ msgstr "হোস্ট ১ (ডাউনলোড) পরিচালনা করুন:"
+
+#~ msgid "In order to update files (uploading them), we need the user name."
+#~ msgstr "ফাইল আপডেট (আপলোড) করার জন্য ব্যবহারকারীর নাম প্রয়োজন। "
+
+#~ msgid "Rank the Top 10 best typists registered at the external host."
+#~ msgstr ""
+#~ "বহিঃস্থ হোস্টে সর্বাধিক গতিসম্পন্ন (এবং রেজিস্টার্ড)\t ১০ জন টাইপিস্ট এর তালিকা "
+#~ "করো"
+
+#~ msgid ""
+#~ "Test the connection with the external host and/or just update the "
+#~ "parameters of the default host (every year it should change)."
+#~ msgstr ""
+#~ " বাহ্যিক হোস্ট-র সাথে কানেকশন টেস্ট করুন এবং/অথবা শুধু ডিফল্ট হোস্টের প্যারামিটার "
+#~ "আপডেট করুন (এটি প্রতি বছর পরিবর্তন হওয়া উচিত)।"
+
+#~ msgid "Test and/or renew the connection"
+#~ msgstr "কানেকশন টেস্ট করুন এবং/অথবা নতুন করে তৈরি করুন"
+
+#~ msgid "Configure host"
+#~ msgstr "হোস্ট কনফিগার করুন:"
+
+#~ msgid "No file to download in the host server."
+#~ msgstr "হোস্ট সার্ভারে ডাউনলোড করার কোনো ফাইল নেই।"
+
+#~ msgid ""
+#~ "Thanks, it seems that your local scores were uploaded correctly. Every "
+#~ "day a new ranking should be managed by the maintainer of the host server. "
+#~ "You are supposed to wait some time before getting your achievement up "
+#~ "there..."
+#~ msgstr ""
+#~ "ধন্যবাদ, মনে হচ্ছে আপনার স্থানীয় স্কোর সঠিক উপায়ে আপলোড করা হয়েছে। হোস্ট "
+#~ "সার্ভারের রক্ষণাবেক্ষণকারী দ্বারা প্রত্যেকদিন একটি ক্রম তালিকার ব্যবস্থা করতে হবে। "
+#~ "আপনার ফলাফল সেখানে প্রতিফলিত হওয়া পর্যন্ত, আপনাকে কিছু সময় অপেক্ষা করতে হব..."
+
+#~ msgid "No host is configured"
+#~ msgstr "কোনো হোস্ট কনফিগার করা নেই"
+
+#~ msgid "Testing 'libcurl': "
+#~ msgstr "'libcurl' টেস্ট করা হচ্ছে:"
+
+#~ msgid "YES! :-)"
+#~ msgstr "হ্যাঁ! :-)"
+
+#~ msgid "NO... :-("
+#~ msgstr "না... :-("
+
+#~ msgid "Default host"
+#~ msgstr "ডিফল্ট হোস্ট"
+
+#~ msgid "querying"
+#~ msgstr "কোয়েরি করা হচ্ছে"
+
+#~ msgid "HOST 1"
+#~ msgstr "হোস্ট ১"
+
+#~ msgid "uploading"
+#~ msgstr "আপলোড করা হচ্ছে"
+
+#~ msgid ""
+#~ "FAIL\n"
+#~ "\n"
+#~ msgstr ""
+#~ "ব্যর্থ\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "OK!\n"
+#~ "\n"
+#~ msgstr ""
+#~ "ঠিক আছে!\n"
+#~ "\n"
+
+#~ msgid "HOST 2"
+#~ msgstr "হোস্ট ২"
+
+#~ msgid "downloading"
+#~ msgstr "ডাউনলোড করা হচ্ছে"
+
+#~ msgid "No manager is configured: skipping upload to HOST 2."
+#~ msgstr "কোনো ম্যানেজার কনফিগার করা নেই: হোস্ট ২ তে আপলোড করা বাদ দেয়া হচ্ছে।"
+
+#~ msgid "second finger"
+#~ msgstr "দ্বিতীয় আঙ্গুল"
+
+#~ msgid "third finger"
+#~ msgstr "তৃতীয় আঙ্গুল"
+
+#~ msgid "fourth finger"
+#~ msgstr "চতুর্থ আঙ্গুল"

@@ -1,0 +1,26 @@
+____________________________________________________________
+Simple list of things that could be done in future releases:
+
+- Add instructions for typing with the shift keys (in the introduction).
+- Explain what are the blank lessons after 43, in basic module.
+- In fluidity, manage Ctrl+h to work as Backspace (delete 1 char) and Ctrl+w as Ctrl+Backspace (clean up all errors).
+- Make possible individual reset of character errors logs.
+- Add a metronome mode for speed and fluidity modules.
+- Configurable colors for the progress window.
+- Add method for advanced users to learn the keyboard from words in the dictionaries (center row left/rigth/both hands, lower row, upper row, number row, etc).
+- Use long dictionaries for the speed module (word frequency should come from real language used in ordinary texts, but if people send long a dict it will be accepted, in a language basis).
+- Fix timeout handling of cursor blinking.
+
+____________________________________________
+And suggestions that probably won't be done:
+
+- Local network support for local scores (libavahi?); zeroconf allows sharing ranking data among users connected to the same network. (too complicated, volunteers, please).
+- Collect wrong words (or slow typed ones), and create special exercises with them in the velocity module. (too much effort, don't think it is worth).
+- Print report after completion of a fluidity session. (printscreen should be enough)
+- Allow the user to delete his full name from the web, at Top 10 (or Top 200). No way to make this secure, the user should ask the maintainer to do that.
+- Get rid of the main menu window, moving all actions there to the tutor window (no reason to change the "game" style of the application).
+- Add some kind of lessons for the numeric pad (the user may create custom lessons for this).
+- Support for AltGr symbols (also here, the user may create custom lessons).
+- Use sound system instead of the PC beeps (in Gnome, for example, one can configure the beeps as smooth sounds).
+- Separate error and touch-speed analises by language, and put in other module, apart from the adaptability (these analyses had been separated according to the keyboard, so the user should apply the rigth keyboard for each different language).
+- Disable Alt-keys as shortcuts, because some systems use Alt-keys to type characters (disabling this should be done by GTK global configuration, see GtkSettings and gtk-enable-mnemonics).
