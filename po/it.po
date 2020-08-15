@@ -265,7 +265,7 @@ msgstr "Mostra schermata precedente."
 
 #: ../data/klavaro.glade.h:59
 msgid "_Previous step"
-msgstr "_Passaggio successivo"
+msgstr "_Passaggio precedente"
 
 #: ../data/klavaro.glade.h:60
 msgid "Show next screen."
@@ -273,7 +273,7 @@ msgstr "Mostra schermata successiva."
 
 #: ../data/klavaro.glade.h:61
 msgid "_Next step"
-msgstr "Passaggio precede_nte"
+msgstr "_Passaggio successivo"
 
 #: ../data/klavaro.glade.h:62
 msgid "Return without any modification."
